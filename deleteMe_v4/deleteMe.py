@@ -15,6 +15,7 @@ Author: William “TwoWheelJunky” Peterson
 
 import csv
 import os
+import time
 import webbrowser
 import random
 from pathlib import Path
@@ -109,6 +110,23 @@ def sort_and_label_brokers(brokers):
     covered.sort(key=lambda x: x["name"].lower())
     return uncovered, covered
 
+# ---------------------  You Have Been Hacked  ----------------------- #
+def show_fake_hack_animation():
+    frames = [
+        r"💀💀💀   YOU HAVE BEEN HACKED   💀💀💀",
+        r"💀💀💀   YOUR DATA IS MINE!!   💀💀💀",
+        r"💀💀💀   JUST KIDDING 😄        💀💀💀",
+        r"💀💀💀   Launching deleteMe... 💀💀💀"
+    ]
+    
+    for i in range(10):
+        os.system("cls" if os.name == "nt" else "clear")
+        print("\n" * 5)
+        print("".center(80, "="))
+        print(frames[i % len(frames)].center(80))
+        print("".center(80, "="))
+        time.sleep(1)
+
 # -------------------------  UI FUNCTIONS  --------------------------- #
 def welcome():
     global user_name
@@ -189,6 +207,7 @@ def add_broker(brokers):
 # -----------------------------  MAIN  ------------------------------- #
 def main():
     global quotes_cache
+    show_fake_hack_animation()
     welcome()
     first_time_setup()
     brokers = auto_mark_covered(load_brokers())
