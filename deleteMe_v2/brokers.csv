@@ -1,0 +1,7 @@
+name,url,email,notes,covered_by,status
+Spokeo,https://www.spokeo.com/opt_out/new,,,Incogni;DeleteMe,Completed
+Whitepages,https://www.whitepages.com/suppression-requests,,,Incogni,Completed
+BeenVerified,https://www.beenverified.com/app/optout/search,,,Incogni,Pending
+PeopleFinder,https://www.peoplefinder.com/opt-out,,Requires CAPTCHA,,Pending
+MyLife,https://www.mylife.com/ccpa,,,None,Pending
+Intelius,https://www.intelius.com/opt-out/submit/,,,None,Pending
