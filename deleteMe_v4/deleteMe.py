@@ -34,7 +34,7 @@ user_name = ""
 user_services = []
 PAID_SERVICES = ["Incogni", "DeleteMe", "Kanary", "Optery", "OneRep"]
 FREE_SERVICES = ["SimpleOptOut", "JustDeleteMe", "StopDataBrokers"]
-BROKERS_FILE = "brokers.csv"
+BROKERS_FILE = os.path.expanduser("~/deleteMe_brokers.csv")
 QUOTES_FILE = "motivational_quotes.txt"
 
 # Animation function
@@ -66,13 +66,16 @@ def load_brokers():
 
 # Save brokers to CSV
 def save_brokers(brokers):
-    with open(BROKERS_FILE, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ["name", "opt_out_link", "covered_by"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for b in brokers:
-            writer.writerow(b)
-    debug("Brokers saved to CSV")
+    try:
+        with open(BROKERS_FILE, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=['name', 'opt_out_link', 'covered_by'])
+            writer.writeheader()
+            writer.writerows(brokers)
+        debug("Saved brokers to CSV.")
+    except PermissionError:
+        print("❌ Error: Cannot save to brokers.csv – permission denied.")
+        print("➡️ Try running from your home directory or grant Terminal Full Disk Access.")
+        logging.exception("Permission denied while saving brokers.")
 
 # Show quotes
 def show_quote():
@@ -143,26 +146,37 @@ def view_brokers(brokers):
 
 # Manual opt-out
 def open_opt_out(brokers):
-    uncovered = [b for b in brokers if not b.get('covered_by')]
-    if not uncovered:
+    pending = [b for b in brokers if not b.get('covered_by')]
+    if not pending:
         print(f"Nice work, {user_name}! There are no remaining brokers.\n")
         return
 
-    for idx, b in enumerate(uncovered):
+    for idx, b in enumerate(pending):
         print(f"[{idx}] {b['name']} – {b['opt_out_link']}")
     print()
-    try:
-        choice = int(input("Which broker would you like to open? (#): "))
-        if 0 <= choice < len(uncovered):
-            webbrowser.open(uncovered[choice]['opt_out_link'])
-            mark = input("Did you complete the opt-out? (y/n): ").lower()
-            if mark == 'y':
-                uncovered[choice]['covered_by'] = user_name
-                save_brokers(brokers)
-                print("✓ Marked as completed.")
-                show_quote()
-    except Exception as e:
-        print(f"❌ Error: {e}")
+
+    choice_str = input("Which broker would you like to open? (#): ").strip()
+    if not choice_str.isdigit():
+        print("❌ Please enter a valid number shown in the list.")
+        return
+
+    choice = int(choice_str)
+    if not 0 <= choice < len(pending):
+        print("❌ Invalid choice. Pick a number from the list.")
+        return
+
+    broker = pending[choice]
+    print(f"🌐 Opening: {broker['name']} – {broker['opt_out_link']}")
+    webbrowser.open(broker['opt_out_link'])
+
+    response = input(f"Did you complete the opt-out for {broker['name']}? (y/n): ").lower()
+    if response == 'y':
+        broker['covered_by'] = "manual"
+        debug(f"Marked {broker['name']} as manually completed.")
+        save_brokers(brokers)
+        print("✅ Marked as complete!")
+        print(get_motivational_quote())
+
 
 # Add broker
 def add_broker(brokers):
