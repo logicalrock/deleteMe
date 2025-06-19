@@ -1,4 +1,6 @@
-name,url,email,notes,covered_by,status
-Spokeo,https://www.spokeo.com/opt_out/new,,,Incogni;DeleteMe,Completed
-Whitepages,https://www.whitepages.com/suppression-requests,,,Incogni,Completed
-BeenVerified,https://www.beenverified.com/app/optout/search,,,Incogni,Pending
+name,opt_out_link,covered_by,status
+BeenVerified,https://beenverified.com/optout,Incogni,
+Spokeo,https://www.spokeo.com/optout,DeleteMe,
+Whitepages,https://www.whitepages.com/opt-out,DeleteMe,
+FakeBroker1,https://fake1.example.com,,
+FakeBroker2,https://fake2.example.com,,
