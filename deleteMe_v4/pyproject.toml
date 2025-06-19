@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deleteMe"
+version = "4.0.0"
+description = "Automated digital footprint scrubber"
+dependencies = ["cryptography"]
+
+[project.scripts]
+deleteMe = "deleteMe:main"
+
