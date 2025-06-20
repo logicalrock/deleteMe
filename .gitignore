@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 backup/
 deleteMe-backup
 =======
 # Ignore Python virtual environments
+=======
+# Python virtual environments
+>>>>>>> ea2363c (Adding license.)
 venv/
 
 # Byte-compiled / cache files
@@ -10,25 +14,42 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Editor/IDE files
+# Editor/IDE config
 .vscode/
 .idea/
 *.swp
 
-# Logs and data
+# Logs, databases, and runtime files
 *.log
 *.sqlite3
+*.pid
 
 # System files
 .DS_Store
 Thumbs.db
 
-# Compiled files
+# Python distribution and packaging
 *.egg-info/
 build/
 dist/
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
+<<<<<<< HEAD
 >>>>>>> 2fb26e1 (Initial commit after move)
+=======
+# Env files for secrets/config
+.env
+.env.*
+
+# Frontend (optional)
+node_modules/
+*.tsbuildinfo
+*.min.js
+*.min.css
+dist/
+static/js/
+static/css/
+
+>>>>>>> ea2363c (Adding license.)
