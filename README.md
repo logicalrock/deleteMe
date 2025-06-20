@@ -5,6 +5,14 @@ It evolved over four versions, adding service integration, automation, and usabi
 
 ---------------------------------------------------------------------------------------------------------------------------------|||||
 
+# deleteMe Project
+
+## Versions
+- 🔹 [deleteMe CLI version](./deleteMe_v4/README.md)
+- 🔸 [deleteMe Web version](./deleteMeWeb/README.md)
+
+---------------------------------------------------------------------------------------------------------------------------------|||||
+
 # Version Summary
 
 | Folder         | Description                                               |
