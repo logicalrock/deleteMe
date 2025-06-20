@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 
 import os
@@ -7,12 +8,11 @@ import logging
 import random
 import webbrowser
 import signal
-from pathlib import Path
+from platformdirs import user_data_dir
 
-# Setup logging to a safe home directory path
-log_path = os.path.expanduser("~/deleteMe.log")
+# Logging config
 logging.basicConfig(
-    filename=log_path,
+    filename='./deleteMe.log',
     filemode='a',
     format='[%(asctime)s] %(levelname)s: %(message)s',
     level=logging.DEBUG
@@ -22,22 +22,26 @@ def debug(msg):
     logging.debug(msg)
     print(f"[DEBUG] {msg}")
 
-# Handle Ctrl+C
+# Set up app-specific directories
+APP_NAME = "deleteMe"
+APP_AUTHOR = "logicalrock"
+data_dir = user_data_dir(APP_NAME, APP_AUTHOR)
+os.makedirs(data_dir, exist_ok=True)
+
+# Globals
+user_name = ""
+user_services = []
+BROKERS_FILE = ""
+PAID_SERVICES = ["Incogni", "DeleteMe", "Kanary", "Optery", "OneRep"]
+FREE_SERVICES = ["SimpleOptOut", "JustDeleteMe", "StopDataBrokers"]
+QUOTES_FILE = "motivational_quotes.txt"
+
 def signal_handler(sig, frame):
     print("\n❌ Program interrupted. Exiting gracefully.")
     exit(0)
 
 signal.signal(signal.SIGINT, signal_handler)
 
-# Globals
-user_name = ""
-user_services = []
-PAID_SERVICES = ["Incogni", "DeleteMe", "Kanary", "Optery", "OneRep"]
-FREE_SERVICES = ["SimpleOptOut", "JustDeleteMe", "StopDataBrokers"]
-BROKERS_FILE = os.path.expanduser("~/deleteMe_brokers.csv")
-QUOTES_FILE = "motivational_quotes.txt"
-
-# Animation function
 def show_fake_hack_animation():
     frames = [
         "💀💀💀  YOUR DATA IS MINE!!  💀💀💀",
@@ -54,30 +58,47 @@ def show_fake_hack_animation():
             print("\n" * 3)
             time.sleep(1.5)
 
-# Read brokers from CSV
+def setup_user_file():
+    global BROKERS_FILE
+    safe_name = ''.join(c for c in user_name if c.isalnum())
+    BROKERS_FILE = os.path.join(data_dir, f"deleteMe_brokers_{safe_name}.csv")
+    debug(f"Using broker file for user {user_name} at: {BROKERS_FILE}")
+
 def load_brokers():
     brokers = []
+    if not os.path.exists(BROKERS_FILE):
+        debug(f"{BROKERS_FILE} not found; creating new one.")
+        with open(BROKERS_FILE, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.DictWriter(f, fieldnames=['name', 'opt_out_link', 'covered_by', 'completed'])
+            writer.writeheader()
+        return brokers
+
     with open(BROKERS_FILE, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            brokers.append(row)
+            broker = {
+                'name': row.get('name', '').strip(),
+                'opt_out_link': row.get('opt_out_link', '').strip(),
+                'covered_by': row.get('covered_by', '').strip(),
+                'completed': row.get('completed', 'False').strip().lower() == 'true'
+            }
+            brokers.append(broker)
+
     debug(f"Loaded {len(brokers)} brokers")
-    return sorted(brokers, key=lambda b: b["name"].lower())
+    return brokers
 
-# Save brokers to CSV
 def save_brokers(brokers):
-    try:
-        with open(BROKERS_FILE, 'w', newline='', encoding='utf-8') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=['name', 'opt_out_link', 'covered_by'])
-            writer.writeheader()
-            writer.writerows(brokers)
-        debug("Saved brokers to CSV.")
-    except PermissionError:
-        print("❌ Error: Cannot save to brokers.csv – permission denied.")
-        print("➡️ Try running from your home directory or grant Terminal Full Disk Access.")
-        logging.exception("Permission denied while saving brokers.")
+    with open(BROKERS_FILE, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=['name', 'opt_out_link', 'covered_by', 'completed'])
+        writer.writeheader()
+        for b in brokers:
+            writer.writerow({
+                'name': b['name'],
+                'opt_out_link': b['opt_out_link'],
+                'covered_by': b.get('covered_by', ''),
+                'completed': b.get('completed', False)
+            })
 
-# Show quotes
 def show_quote():
     try:
         with open(QUOTES_FILE, 'r', encoding='utf-8') as f:
@@ -87,7 +108,6 @@ def show_quote():
     except Exception as e:
         logging.warning(f"Failed to load quote: {e}")
 
-# Initial greeting
 def welcome():
     global user_name
     print("STARTING deleteMe")
@@ -104,7 +124,6 @@ information from dozens of data-broker websites.
     user_name = input("Before we begin, what’s your name? ").strip()
     print(f"\nGreat to meet you, {user_name}! Let’s get started.\n")
 
-# Setup support services
 def first_time_setup():
     global user_services
     print(f"\n{user_name}, let's set up your removal support options:\n")
@@ -120,7 +139,6 @@ def first_time_setup():
     print(f"🛡️  Services selected: {user_services}\n")
     debug(f"Services selected: {user_services}")
 
-# View broker info
 def view_brokers(brokers):
     print(f"\n{user_name}, here’s an overview of data-broker sites:")
     uncovered = [b for b in brokers if not b.get('covered_by')]
@@ -144,7 +162,6 @@ def view_brokers(brokers):
     print()
     show_quote()
 
-# Manual opt-out
 def open_opt_out(brokers):
     pending = [b for b in brokers if not b.get('covered_by')]
     if not pending:
@@ -175,10 +192,8 @@ def open_opt_out(brokers):
         debug(f"Marked {broker['name']} as manually completed.")
         save_brokers(brokers)
         print("✅ Marked as complete!")
-        print(get_motivational_quote())
+        show_quote()
 
-
-# Add broker
 def add_broker(brokers):
     name = input("Broker name: ").strip()
     link = input("Opt-out link: ").strip()
@@ -187,7 +202,6 @@ def add_broker(brokers):
     print(f"✅ Added broker: {name}")
     show_quote()
 
-# Main menu
 def main_menu():
     brokers = load_brokers()
     while True:
@@ -210,8 +224,8 @@ def main_menu():
             print("❌ Invalid option. Try again.")
         print()
 
-# Run
 if __name__ == "__main__":
     welcome()
+    setup_user_file()
     first_time_setup()
     main_menu()

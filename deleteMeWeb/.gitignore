@@ -1,0 +1,29 @@
+# Ignore Python virtual environments
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs and data
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.egg-info/
+build/
+dist/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+

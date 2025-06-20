@@ -1,6 +1,1046 @@
-name,opt_out_link,covered_by,status
-BeenVerified,https://beenverified.com/optout,Incogni,
-Spokeo,https://www.spokeo.com/optout,DeleteMe,
-Whitepages,https://www.whitepages.com/opt-out,DeleteMe,
-FakeBroker1,https://fake1.example.com,,
-FakeBroker2,https://fake2.example.com,,
+name,opt_out_link,covered_by,completed
+01Advertising Inc.,https://app.termly.io/notify/d1321341-0e82-4d8c-afaf-c4940d46c171,,False
+"180 By Two, LLC",https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe,,False
+"33Across, Inc.",https://udp.33across.com/udp_opt_out/cookie_opt_out,,False
+"33Across, Inc.",https://www.33across.com/wp-content/uploads/2020/04/33Across-CCPA-Notice-Collection-Policy_US.pdf,,False
+360 Media Direct,https://360-media-direct.privacy.saymine.io/360_Media_Direct,,False
+4C Insights,https://www.mediaocean.com/your-privacy-rights,,False
+4C Insights Inc.,https://www.mediaocean.com/your-privacy-rights,,False
+4EYES AI Inc,https://www.4-eyes.ai/privacy-policy?cord_section=privacy_options_dns,,False
+"4Eyes.Ai, Inc.",https://www.4-eyes.ai/privacy-policy?cord_section=privacy_options_dns,,False
+4Legalleads,https://www.4legalleads.com/removal/,,False
+"5X5 Us, LLC",https://5x5data.com/opt-out-preferences/,,False
+6SENSE INSIGHTS Inc,https://6sense.com/privacy-center/,,False
+"6Sense Insights, Inc.",https://6sense.com/privacy-center/,,False
+"ACCUDATA INTEGRATED Marketing, Inc.",https://privacy.deepsync.com/,,False
+AFFINITY ANSWERS CORPORATION,https://www.affinityanswers.com/your-privacy-choices/,,False
+AIS Infosource LP,https://www.aisinfo.com/privacy?hsLang=en#california-privacy-rights,,False
+AIS Portfolio Services LLC,https://www.aisinfo.com/privacy?hsLang=en#california-privacy-rights,,False
+"AIS Recovery Solutions, LLC",https://aisrecovery.com/privacy-policy/#california,,False
+ALC LLC,https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/f54a1b10-bb5d-4c99-9521-3e08dc527583,,False
+ALL GOOD MEDIA,https://attribits.com/do-not-sell,,False
+ANALYTICSIQ Inc,https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1,,False
+ANCHOR COMPUTER Inc,https://ecom2.anchorcomputer.com/privacyrequest,,False
+ANTERIAD LLC,https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe,,False
+ASL Marketing,https://privacy.deepsync.com/,,False
+ATDATA LLC,https://instantdata.atdata.com/optout,,False
+ATTOM Data Solutions,https://www.attomdata.com/privacy/ccpa-request-form-7233695024/,,False
+ATTOM Data Solutions LLC,https://www.attomdata.com/privacy/ccpa-request-form-7233695024/,,False
+AUDIENCE ACUITY Inc,https://www.audienceacuity.com/opt-out-of-database,,False
+"AVRICK Direct, Inc.",https://privacy.avrickdirect.com/,,False
+"AWL Holdings, LLC",https://dnc.allwebleads.com/Unsubscribe,,False
+AWL Inc,https://dnc.allwebleads.com/Unsubscribe,,False
+Accenture LLP,https://www.accenture.com/content/acom/us-en/support/form-do-not-sell-my-personal-information,,False
+Accenture LLP,https://www.accenture.com/us-en/support/form-do-not-sell-my-personal-information,,False
+Accudata Integrated Marketing,https://privacy.deepsync.com/,,False
+"Accudata Integrated Marketing, Inc.",https://optout.accudata.com,,False
+Accuity Inc.,https://solutions.risk.lexisnexis.com/PreferenceCenter,,False
+Accuity Inc.,https://consumer.risk.lexisnexis.com/request#california,,False
+Accurate Append Inc,https://clients.accurateappend.com/Public/OptOut,,False
+Accurate Append Inc.,https://clients.accurateappend.com/Public/OptOut,,False
+"Ach, Address Clearing House",https://www.achcoop.com/do-not-sell-my-personal-info,,False
+"Activimpact, LLC",https://www.activimpact.ai/dsar?hsLang=en,,False
+Acxiom LLC,https://www.acxiom.com/what-we-are-thinking/california-consumer-privacy-act/for-consumers/,,False
+Adadapted Inc.,https://www.adadapted.com/legal/do-not-sell,,False
+Address Clearing House,https://www.achcoop.com/do-not-sell-my-personal-info,,False
+"Adept Id, Inc.",https://www.adept-id.com/opt-out-preferences/,,False
+Adsquare GmbH,https://adsquare.com/privacy/us_privacy_supplement/#goto-contact-us,,False
+Adstra LLC,https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/f54a1b10-bb5d-4c99-9521-3e08dc527583,,False
+Advertise4Sales Inc,https://www.4legalleads.com/removal#lp-pom-block-12,,False
+Advertise4Sales LLC,https://www.4legalleads.com/removal,,False
+"Advisortarget, LLC",https://www.finsum.com/index.php/what-we-do/your-privacy-choices,,False
+Affinity Answers Corporation,https://www.affinityanswers.com/your-privacy-choices/,,False
+Affinity Solutions,https://affinitysolutions-privacy.my.onetrust.com/webform/a564cfa1-53bf-4c10-bf95-cd907432d7e8/7e4e6bf3-6562-454e-8c73-6a7bd1f4b336,,False
+Aidentified LLC,https://www.aidentified.com/delete-my-data,,False
+"Aidentified, Inc.",https://www.aidentified.com/delete-my-data,,False
+"Alc, Inc.",https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/f54a1b10-bb5d-4c99-9521-3e08dc527583,,False
+"Alikeaudience, Inc.",https://privacy-optout.alikeaudience.com/,,False
+All Good Media LLC,https://www.attribits.com/do-not-sell,,False
+"All Good Media, LLC",https://www.attribits.com/do-not-sell,,False
+All The Way Up LTD,https://swordfishapp.com/optout,,False
+All Web Leads Inc,https://dnc.allwebleads.com/Unsubscribe,,False
+"All Web Leads, Inc",https://dnc.allwebleads.com/Unsubscribe,,False
+Alliant Cooperative Data Solutions,https://privacyportal-cdn.onetrust.com/dsarwebform/591ac1c1-3a1e-496f-9e43-ff4afb5fef85/2b52262e-8ada-4725-b86e-e4b960336f96.html,,False
+Alliant Cooperative Data Solutions LLC,https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Falliantinsight.com%2Fdata-services-and-website-privacy-policy%2F&data=05%7C02%7Ccroeun%40alliantdata.com%7C3139381d40eb42ddaa4808dc24319b32%7C204e535aa01e40b1b2cfd429f65f4d19%7C0%7C0%7C638425043208580371%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=oy2E%2Bi%2F4UWgkMziUlbYotlB9lXOYHb4lz3ABjNq4n7U%3D&reserved=0,,False
+"Alliant Cooperative Data Solutions, LLC",https://privacyportal-cdn.onetrust.com/dsarwebform/591ac1c1-3a1e-496f-9e43-ff4afb5fef85/2b52262e-8ada-4725-b86e-e4b960336f96.html,,False
+"Alliant Cooperative Data Solutions, LLC",https://alliantinsight.com/data-services-and-website-privacy-policy/,,False
+Alphonso Inc.,https://alphonso.tv/privacy/ccpa/,,False
+Alphonso Inc.,https://choice.alphonso.tv/donotsell,,False
+"Altair Data Resources, Inc.",https://www.altairdata.com/altair-consumer-info/,,False
+"Altisource Holdings, LLC",https://www.altisource.com/us-consumer-privacy-notice,,False
+Amerilist Inc,https://www.amerilist.com/optout,,False
+Amplemarket,https://www.amplemarket.com/legal/do-not-sell-my-info,,False
+AnalyticsIQ Inc.,https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1,,False
+"AnalyticsIQ, Inc.",https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1,,False
+Analyticsiq,https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1,,False
+Analyticsiq Inc.,https://privacyportal.onetrust.com/webform/f6a59500-f900-4652-b030-0cd51afe15a5/87ca07e4-e06c-4ad8-9aa6-ccbbaa8750c1,,False
+Anchor Computer,https://ecom2.anchorcomputer.com/privacyrequest,,False
+Anchor Computer Inc.,https://ecom2.anchorcomputer.com/privacyrequest,,False
+"Anchor Computer, Inc",https://ecom2.anchorcomputer.com/privacyrequest,,False
+"Anchor Computer, Inc.",https://ecom2.anchorcomputer.com/privacyrequest,,False
+Andrews Wharton Inc.,https://www.andrewswharton.com/your-privacy-choices,,False
+"Andrews Wharton, Inc",https://www.andrewswharton.com/your-privacy-choices,,False
+"Anne Lewis Strategies, LLC",https://optout.networkadvertising.org/?c=1,,False
+"Ansonia Credit Data, Inc.",https://myprivacy.equifax.com/opt-in-opt-out/personal-info/,,False
+Anteriad,https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe,,False
+"Anteriad, LLC",https://privacyportal.onetrust.com/webform/e32c5e49-85c5-4969-bfa8-8cde49952e1f/6034339d-69de-41fc-829f-7b8b51d9fabe,,False
+"Apihub, Inc",https://www.clearbit.com/ccpa-opt-out,,False
+"Apihub, Inc.",https://www.clearbit.com/ccpa-opt-out,,False
+"Apollo Interactive, Inc.",https://www.apollointeractive.com/data-rights.php,,False
+"Apollo Interactive, LLC",https://www.apollointeractive.com/data-rights.php,,False
+Appscience,https://appsci.io/do-not-sell-my-info,,False
+Appscience,https://www.appscience.ai/do-not-sell-my-info,,False
+Aristotle International Inc.,https://www.aristotle.com/privacy/do-not-sell-my-personal-info/,,False
+"Aristotle International, Inc.",https://www.aristotle.com/privacy/do-not-sell-my-personal-info/,,False
+"Arity 875, LLC",https://arity.com/yourprivacychoices/,,False
+Arrakis Technologies Corp.,https://www.arrakis.ai/optout,,False
+Aspire North,https://www.aspire-north.com/do-not-sell-my-personal-information--out-out-request-form.html,,False
+"Asset International, Inc.",https://www.issgovernance.com/privacy-legal/ccpa/,,False
+"Assurance Iq, Inc.",https://assurance.com/assurance-privacy-practices.html#CRPDYourConsumerRightsRightToOptOut,,False
+"Atdata, LLC",https://instantdata.atdata.com/optout,,False
+Audience Acuity LLC,https://www.audienceacuity.com/opt-out-of-database,,False
+Audiencerate Ltd,https://www.audiencerate.com/optout,,False
+Audigent,https://www.audigent.com/?optout=1,,False
+"Austin Consolidated Holdings, Inc.",https://www.optoutprescreen.com/,,False
+"Austin Consolidated Holdings, Inc.",https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+Automotive Mastermind,https://www.automotivemastermind.com/do-not-sell-or-share-my-personal-information-request/,,False
+"Autoweb, Inc.",https://privacyportal.onetrust.com/webform/27aa5d67-8136-4a08-ae4b-9860992e2375/f84362ef-6901-4a8c-9a52-e7b06dbb4e6b,,False
+Azar LLC,https://remodeling.com/do-not-sell/,,False
+Azerion US Inc.,https://www.hybridtheory.com/do-not-sell/,,False
+Azira,https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab,,False
+Azira LLC,https://submit-irm.trustarc.com/services/validation/0a80503b-1d56-4d50-a898-4377a0227dab,,False
+BB Direct Inc,https://www.bbdirect.com/privacy-compliance.html,,False
+"BB Direct, Inc",https://www.bbdirect.com/privacy-compliance.html,,False
+"BDO Gci, LLC",https://www.bdo.com/do-not-sell-my-personal-information,,False
+"BDO USA, LLP",https://www.bdo.com/do-not-sell-my-personal-information,,False
+BEEN VERIFIED LLC,https://www.beenverified.com/svc/optout/search/optouts,,False
+BH MARKETING GROUP LLC,https://www.usmarketinggrp.com/privacy-policy/#CCPA,,False
+"BH MARKETING Group, LLC",https://www.usmarketinggrp.com/privacy-policy/#CCPA,,False
+BIGDBM,https://optout.bigdbm.com/,,False
+BLACK PEARL GROUP LLC,https://www.blackpearl.com/privacy-opt-out,,False
+BLACKBAUD Inc,https://www.blackbaud.com/company/data-subject-rights-request,,False
+BOARDEX LLC,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+BOARDROOM INSIDERS Inc,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+BTRS Holdings Inc,https://privacyportal.onetrust.com/webform/82a6a736-b3a7-4e87-a2fd-04a39b7d2b19/2f5dc7b8-7698-4623-82d2-b2b969ef901e,,False
+BV Insights LLC,https://big-village.com/do-not-sell-or-share-my-personal-information/,,False
+"Bdex, LLC",https://www.bdex.com/privacy-policy/data-sharing-opt-out/,,False
+"Beenverified, Inc.",https://www.beenverified.com/svc/optout/search/optouts,,False
+"Beenverified, LLC",https://www.beenverified.com/svc/optout/search/optouts,,False
+Beeswax,https://optout.prod.bidr.io/optout,,False
+Belardi Ostroy,https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390,,False
+Belardi Ostroy ALC LLC,https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390,,False
+"Belardi Ostroy, ALC, LLC",https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390,,False
+"Belardi Ostroy, Alc, LLC",https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390,,False
+Belardi Wong,https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/400f54ed-fcbb-4749-ab5b-32f491c72390,,False
+"Best Pick Reports, LLC",https://www.bestpickreports.com/do-not-sell,,False
+Biscred,https://www.biscred.com/do-not-sell-my-information,,False
+Black Pearl Group Limited,https://www.blackpearl.com/privacy-opt-out,,False
+"Blackbaud, Inc",https://www.blackbaud.com/company/data-subject-rights-request-optout-and-deletions,,False
+"Blackbaud, Inc.",https://www.blackbaud.com/company/data-subject-rights-request-optout-and-deletions,,False
+"Blackbaud, Inc.",https://www.blackbaud.com/company/data-subject-rights-request,,False
+Blis Global Ltd,https://blis.com/ccpa-opt-out/,,False
+"Bliss Point Media, Inc.",https://www.blisspointmedia.com/privacy,,False
+Blue Action,https://my.datasubject.com/16CV6iU2K7qFU3Poy/33263,,False
+Blue Hill Marketing Solutions,https://www.liftbasedata.com/request-to-know/,,False
+"Blue Hill Marketing Solutions, Inc",https://www.liftbasedata.com/request-to-know/,,False
+"Blue Hill Marketing Solutions, Inc",https://www.liftbasedata.com/request-to-know,,False
+"Blue Hill Marketing Solutions, Inc.",https://www.liftbasedata.com/request-to-know/,,False
+Boardex,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+Boardex LLC,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+Boardroom Insiders,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+"Boardroom Insiders, Inc.",https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+"Bombora, Inc",https://bombora.com/opt-out/,,False
+Bridge,https://www.thebridgecorp.com/opt-out/,,False
+"Brooks Integrated Marketing, LLC",https://www.brooksim.com/privacy-form,,False
+Bureau Van Dijk Electronic Publishing Ltd.,https://survey.alchemer.com/s3/8249180/Do-Not-Sell-Request,,False
+Business.Com,https://www.business.com/optout/,,False
+"Buxton Company, LLC",https://www.buxtonco.com/privacy/opt-out,,False
+Buyerlink Inc.,https://www.buyerlink.com/do-not-sell-or-share-my-personal-information,,False
+CATALIST LLC,https://catalist.us/your-privacy-choices/,,False
+CENGAGE LEARNING Inc,https://www.cengage.com/repfinder/gale,,False
+CHOREOGRAPH LLC,https://amer-cpp.choreograph.com/manage-your-data/do-not-sell,,False
+"CIC Mortgage Credit, Inc",https://www.optoutprescreen.com/,,False
+CIVIS ANALYTICS Inc,https://www.civisanalytics.com/privacy-policy/#ccpa,,False
+CLAY LABS LLC,https://docs.google.com/forms/d/e/1FAIpQLSeAsU1U-AJfhqzDx6-6eVcyQ_kBD1J9cw1y0huQiS-HCkRf0Q/viewform?usp=send_form,,False
+CLICKAGY LLC,https://www.clickagy.com/privacy-center/no-resell/,,False
+"CO2 Ventures, LLC",https://oncoreleads.com/do_not_sell/,,False
+"CO2 Ventures, LLC",https://www.oncoreleads.com/do_not_sell/,,False
+COLLECTIVE DATA SOLUTIONS LLC,https://www.collectivedata.io/opt-out-do-not-sell-request-process/,,False
+COMPACT INFORMATION SYSTEMS,https://privacy.deepsync.com/,,False
+CONVERGE DIRECT LLC,https://www.homeservicescompliance.com/infoform.html,,False
+CRISIL Irevna US LLC,https://www.crisil.com/content/crisilcom/en/home/crisil-privacy-notice/do-not-sell-my-personal-information.html,,False
+CTAM LEADSHARE CORP,https://www.smartmove.us/company/do-not-sell,,False
+CTAM Leadshare Corp,https://www.smartmove.us/company/do-not-sell,,False
+CTAM Leadshare Corp.,https://www.smartmove.us/company/do-not-sell,,False
+CUSTOMER ASSET CONSULTING GROUP Inc,https://datadelivers.com/do-not-sell-or-share-my-personal-information/,,False
+"Cadent, LLC",https://cadent.tv/your-privacy-choices/,,False
+"Cappex.Com, LLC",https://cappex.formstack.com/forms/do_not_sell,,False
+"Cappex.Com, LLC",https://www.cappex.com/your-privacy-rights,,False
+"Cappex.com, LLC",https://cappex.formstack.com/forms/do_not_sell,,False
+Captify Technologies,https://www.captifytechnologies.com/data-subject-rights-request/,,False
+"Cardlytics, Inc.",https://datagrail.cardlytics.com/,,False
+Carney Direct Marketing,mailto:privacy@carneydirect.com?Subject=Privacy%20Policy%20%E2%80%93%20Opt%20Out%20Request,,False
+Carry Technologies Inc.,https://www.hightouch.com/privacy-choices,,False
+Casters Holdings LLC,https://www.semasio.com/legal/privacy-choices,,False
+Catalina Marketing Corporation,https://www.catalina.com/#privacy,,False
+Catalist LLC,https://catalist.us/your-privacy-choices/,,False
+"Catalist, LLC",https://catalist.us/your-privacy-choices/,,False
+"Catalyze Ai, Inc",https://www.catalyzeai.com/opt-out,,False
+"Catalyze Ai, Inc",https://www.catalyzeai.com/po,,False
+"Cengage Learning, Inc.",https://info.cengage.com/LP=5633/,,False
+"Cengage Learning, Inc.",https://cp.cengage.com/CCPA/,,False
+"Censia, Inc",https://www.censia.com/privacy-policy/#your-rights-and-choices,,False
+"Censia, Inc.",https://docs.google.com/forms/d/1VhF33VAQG4AmUqBWf7e3m8fw17h9ek64EtQXnuuBQcA/edit,,False
+Choreograph LLC,https://amer-cpp.choreograph.com/manage-your-data/do-not-sell,,False
+Choreograph LLP,https://amer-cpp.choreograph.com/manage-your-data/do-not-sell,,False
+Cision US Inc.,https://www.cision.com/contact-us/opt-out/,,False
+"Cision US, Inc.",https://www.cision.com/contact-us/opt-out/,,False
+"Cision Us, Inc",https://www.cision.com/contact-us/opt-out/,,False
+"Citydata, Inc.",https://citydata.ai/personal_information,,False
+"Civil Data Research, LLC",https://www.searchpublicrecords.com/help-center/privacy-requests,,False
+"Civis Analytics, Inc",https://www.civisanalytics.com/privacy-policy/#ccpa,,False
+"Civis Analytics, Inc.",https://www.civisanalytics.com/privacy-policy/#ccpa,,False
+Civitech,https://www.civitech.io/privacy-policy/#section5,,False
+Claritas,https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783,,False
+Claritas LLC,https://privacyportal.onetrust.com/webform/68582716-6ce4-4f6e-bf08-78371b5f3292/6c7dc52d-0e2b-481f-9256-0755179e3783,,False
+"Clarity Services, Inc",https://www.clarityservices.com/support/opt-out-2/,,False
+"Clarity Services, Inc.",https://www.clarityservices.com/support/opt-out-2/,,False
+Clay Labs LLC,https://docs.google.com/forms/d/e/1FAIpQLSeAsU1U-AJfhqzDx6-6eVcyQ_kBD1J9cw1y0huQiS-HCkRf0Q/viewform?usp=send_form,,False
+"Clay Labs, Inc",https://docs.google.com/forms/d/e/1FAIpQLSeAsU1U-AJfhqzDx6-6eVcyQ_kBD1J9cw1y0huQiS-HCkRf0Q/viewform?usp=send_form,,False
+"Clearcompany, LLC",https://optout.networkadvertising.org/,,False
+"Clearview Ai, Inc.",https://privacyportal.onetrust.com/webform/1fdd17ee-bd10-4813-a254-de7d5c09360a/2a09e1a7-f09f-4e0c-91a2-5818abe414d5,,False
+"Clearview Ai, Inc.",https://www.clearview.ai/privacy-and-requests,,False
+Clickagy,https://www.clickagy.com/privacy-center/no-resell/,,False
+Clickagy LLC,https://www.clickagy.com/privacy-center/no-resell/,,False
+"Clickagy, LLC",https://www.clickagy.com/privacy-center/no-resell/,,False
+Cognism,https://cognism.privacy.saymine.io/cognism,,False
+Cognism Inc.,https://cognism.privacy.saymine.io/cognism,,False
+"Cognism, Inc.",https://cognism.privacy.saymine.io/cognism,,False
+Collective Data Solutions,https://www.collectivedata.io/opt-out-do-not-sell-request-process/,,False
+"Collective Data Solutions, LLC",https://www.collectivedata.io/opt-out-do-not-sell-request-process/,,False
+Command Precision Inc.,https://www.intentwave.com/opt-out,,False
+"Command Precision, Inc.",https://www.intentwave.com/opt-out,,False
+"Commercial Real Estate Exchange, Inc.",https://crexi.bigidprivacy.cloud/consumer/#/o2TCsG9LJ7,,False
+Compact Information Systems,https://privacy.deepsync.com/,,False
+Compact Information Systems LLC,https://privacy.deepsync.com/,,False
+"Compact Information Systems, LLC",https://privacy.deepsync.com/,,False
+"Compile, Inc.",https://mckessoncompile.com/hcp-opt-out?hsLang=en,,False
+Complementics,https://www.complementics.com/optout-donotsell,,False
+Complete Mailing Lists,https://www.completemailinglists.com/node/3697,,False
+Complete Mailing Lists LLC,https://www.completemailinglists.com/do-not-sell-my-information,,False
+Complete Medical Lists Inc,https://www.completemedicallists.com/ccpa.php,,False
+"Complete Medical Lists, Inc.",https://www.completemedicallists.com/ccpa.php,,False
+Compliance Data Center LLC,https://www.optoutprescreen.com/,,False
+"Comscore, Inc.",https://www.comscore.com/About/Privacy/Data-Subject-Rights,,False
+"Confi-Chek, Inc.",https://www.peoplefinders.com/opt-out,,False
+Connect Computer LLC,https://www.calltruth.com/opt_out.php,,False
+Connected Investors,https://firstam.service-now.com/x_farf2_dp_request_ci_opt_out.do?sysparm_id=6d6e7e8edb3e3158665f182813961985,,False
+"Connext Digital, LLC",https://www.connextdigital.com/opt-out/,,False
+Consumerbase LLC,https://www.data-axle.com/do-not-sell-my-data/,,False
+Consumerbase LLC,https://www.data-axle.com/do-not-sell-my-data,,False
+"Consumerbase, LLC",https://www.data-axle.com/do-not-sell-my-data/,,False
+Contactout,https://contactout.com/optout,,False
+"Converge Direct, LLC.",https://www.convergemarketing.com/infoform/?rpgn=&rpurl=,,False
+"Convex Labs, Inc.",https://www.convex.com/request-removal,,False
+"Corelogic Background Data, LLC",https://www.cotality.com/legal/ccpa,,False
+Corelogic Credco Of Puerto Rico,https://www.cotality.com/legal/ccpa,,False
+Corelogic Credco of Puerto Rico,https://www.cotality.com/legal/ccpa,,False
+"Corelogic Credco, LLC",https://www.cotality.com/legal/ccpa,,False
+"Corelogic Screening Services, LLC",https://www.cotality.com/legal/ccpa,,False
+"Corelogic Solutions, LLC",https://www.cotality.com/legal/ccpa,,False
+"Corporate Cost Control, Inc.",https://www.experianverify.com/privacy/opt-out-targeted-advertising,,False
+"Cortera, Inc.",https://ma.moodys.com/Do-Not-Sell-My-Information.html,,False
+Crimson Hexagon,https://www.brandwatch.com/p/legal-data-subject-access-request/,,False
+"Crimson Hexagon, Inc",https://www.brandwatch.com/p/legal-data-subject-access-request/,,False
+"Crimson Hexagon, Inc.",https://www.brandwatch.com/p/legal-data-subject-access-request/,,False
+Crisil Irvena US LLC,https://www.crisil.com/content/crisilcom/en/home/crisil-privacy-notice/do-not-sell-my-personal-information.html,,False
+"Cross Pixel Media, Inc.",https://privacy.crsspxl.com/optout,,False
+Crosswalk Technologies Inc,https://www.crosswalknyc.com/optout,,False
+"Cuebiq, Inc.",https://www.cuebiq.com/privacypolicy/,,False
+"Cuebiq, Inc.",https://www.cuebiq.com/privacy-request/,,False
+Cybba Inc.,https://cybba-requests.my.onetrust.com/webform/a4a1351e-d293-4305-bde4-b9cf8f5c0989/f89c576a-b5c6-498e-bad5-698f084ffd30,,False
+Cyndx Networks LLC,https://www.cyndx.com/california-do-not-track/,,False
+DATA AXLE Inc,https://www.data-axle.com/do-not-sell-my-data/,,False
+DATA PARTNERS Inc,https://datapartners.com/donotsellmyinformation,,False
+DATADELIVERS LLC,https://datadelivers.com/do-not-sell-or-share-my-personal-information/,,False
+DATONICS LLC,https://www.datonics.com/privacy/privacy-choices,,False
+DEALERDIRECT LLC,https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,,False
+DEMYST DATA LTD,https://www.demystdata.com/data-subject-action-request,,False
+DIGITAL SEGMENT LLC,https://www.digitalsegment.com/about/consumer-opt-out/,,False
+"DT Client Services, LLC",https://thedatatrust.com/do-not-sell-my-personal-information/,,False
+DTN LLC,https://www.dtn.com/do-not-sell-my-information-form/,,False
+Data Axle Inc.,https://www.data-axle.com/do-not-sell-my-data/,,False
+"Data Axle, Inc.",https://www.data-axle.com/do-not-sell-my-data/,,False
+Data Partners Inc.,https://www.datapartners.com/donotsellmyinformation,,False
+Databaseusa,https://privacycompliance.biz/databaseusa-california/,,False
+Databaseusa.Com LLC,https://privacycompliance.biz/databaseusa-california/,,False
+Datadelivers LLC,https://datadelivers.com/do-not-sell-or-share-my-personal-information/,,False
+Datadelivers LLC,https://datadelivers.com/unsubscribe/,,False
+Datafy LLC,https://www.datafy.com/opt-out,,False
+Datamentors LLC,https://www.v12data.com/inbound/do-not-sell-my-personal-information/,,False
+Datamentors LLC,https://www.porchgroupmedia.com/inbound/do-not-sell-my-personal-information/,,False
+"Datamentors, LLC",https://www.porchgroupmedia.com/inbound/do-not-sell-my-personal-information/,,False
+Datamyx LLC,https://www.deluxe.com/policy/donotsell/,,False
+Datanyze,https://www.datanyze.com/privacy-center,,False
+"Datax, Ltd.",https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+Date Detective Inc,https://mobile.date-detective.app/investigate-opt-out?origin=website,,False
+"Datonics, LLC",https://www.datonics.com/do-not-sell-my-info#page,,False
+David Rickenbacher,https://www.datamasters.org/opt-out/,,False
+Dealerdirect LLC,https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,,False
+Dealerdirect LLC,https://clicktime.symantec.com/15tpDJvSxa55QdzbrWj43?h=sC8x3fXKbrWlJmz5F-L7_HZ2b0GfkaeH6vnZIbsZZu4=&u=https://privacyportal.onetrust.com/webform/1d20b685-0942-4b4d-a0af-b799c97f5cf6/2e4928b6-d77a-4f76-9518-1bfb9721669d,,False
+"Dealersocket, LLC",https://globaldsar.solera.com/webform/20bbc57b-6134-4535-8062-a1745b771851/1eafe8e0-f69b-4d39-af7c-6dbf764046fa,,False
+Dealerx Partners LLC,https://www.dealerx.com/privacy-options/,,False
+"Dealerx Partners, LLC",https://www.dealerx.com/privacy-options/,,False
+Decisionlinks,https://www.decisionlinks.com/opt-out,,False
+"Deep Root Analytics, LLC",https://www.tunnldata.com/ccpa-request-form,,False
+"Deep Root Analytics, LLC",https://privacy.deeprootanalytics.com/,,False
+Definitive Healthcare,https://preferences.definitivehc.com/privacy,,False
+Definitive Healthcare LLC,https://preferences.definitivehc.com/privacy,,False
+Definitive Healthcare LLC,https://www.definitivehc.com/privacy-center#main-content,,False
+Deloitte Consulting LLP,https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html?icid=bottom_do-not-sell-my-personal-information,,False
+Deloitte Consulting LLP,https://www.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html,,False
+Deloitte Consulting LLP,https://www.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html?icid=bottom_do-not-sell-my-personal-information,,False
+Deloitte Financial Advisory Services LLP,https://www2.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html?icid=bottom_do-not-sell-my-personal-information,,False
+Deloitte Financial Advisory Services LLP,https://www.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html,,False
+Deloitte Financial Advisory Services LLP,https://www.deloitte.com/us/en/footerlinks1/do-not-sell-my-personal-information.html?icid=bottom_do-not-sell-my-personal-information,,False
+Deluxe Corporation,https://www.deluxe.com/policy/donotsell/,,False
+"Demand Science Group, LLC",https://demandscience.com/privacy-policy-ccpa/,,False
+"Demand Science US, LLC",https://demandscience.com/privacy-policy-ccpa/,,False
+Demyst Data Ltd,https://www.demyst.com/personal-information-request-california,,False
+"Demyst Data, Ltd",https://www.demyst.com/data-subject-action-request,,False
+"Demyst Data, Ltd",https://www.demyst.com/personal-information-request-california,,False
+Diablo Media,https://diablomedia.com/privacy-request/,,False
+Diablo Media,https://www.everydayresources.com/opt-out,,False
+"Dice Career Solutions, Inc.",https://www.dice.com/about/ccpa/#cmpscreencustom,,False
+"Digicenter, LLC.",https://www.collectivedata.io/opt-out-do-not-sell-request-process/,,False
+Digital Media Solutions,https://dmsunsub.io/,,False
+Digital Media Solutions LLC,https://dmsunsub.io/,,False
+"Digital Media Solutions, LLC",https://dmsunsub.io/,,False
+"Digital Segment, LLC",https://www.digitalsegment.com/about/personal-opt-out/,,False
+"Digital Segment, LLC",https://www.digitalsegment.com/about/consumer-opt-out/,,False
+Diligent Corporation,https://diligentlegal.results.highbond.com/survey_responses/9Wrc_yiuertX-uLJ4bJA/edit,,False
+"Direct Marketing Solutions, Inc.",https://www.teamdms.com/opt-out,,False
+Disco Technology Inc.,https://support.disconetwork.com/hc/en-us/articles/4418121857819-CCPA-on-Disco#h_01GZPTPA4SPX26NA7E7HP5KHYS,,False
+"Discoverorg Data, LLC",https://www.zoominfo.com/privacy-center/unsubscribe,,False
+"Disqus, Inc.",https://disqus.com/data-sharing-settings/,,False
+Distribution Processing Center LLC,https://dpcoptout.com/opt-out/,,False
+Dmdatabases,https://dmdatabases.com/about-us/opt-out/,,False
+"Donorbase, Inc.",https://www.data-axle.com/do-not-sell-my-data/,,False
+"Donorbase, LLC",https://www.data-axle.com/do-not-sell-my-data/,,False
+"Dspolitical, LLC",https://www.winwithoptimal.com/opt-out-of-advertising/,,False
+Dstillery Inc.,https://www.dstillery.com/,,False
+"Dtn, LLC",https://www.dtn.com/do-not-sell-my-information-form/,,False
+"Dun & Bradstreet, Inc",https://www.dnb.com/utility-pages/privacy-policy.html#article-nineteen-1,,False
+"Dun & Bradstreet, Inc.",https://submit-irm.trustarc.eu/services/validation/ba81b98f-997d-4216-b4cc-d64cf261b082,,False
+E.Republic LLC,https://erepublic.secure.force.com/PrivacyRequest/,,False
+"E.Republic, LLC",https://erepublic.secure.force.com/PrivacyRequest/,,False
+"EAB Global, Inc.",https://privacyportal.onetrust.com/webform/2d4f8bee-b269-434d-a07f-3b94c6618cb4/draft/5cf0e525-940a-42ef-9f33-e89cd2aea637,,False
+ELECTRONIC VOICE SERVICES Inc,https://www.evs7.com/personal-information-request,,False
+EQUIFAX INFORMATION SERVICES LLC,https://www.optoutprescreen.com/,,False
+EXACT OPCO LLC,https://www.exactcustomer.com/DoNotSell.aspx,,False
+"Economic Modeling, LLC",https://optout.networkadvertising.org/,,False
+"Edvisors Fas, Inc.",https://www.edvisors.com/third-party-opt-out/,,False
+"Edvisors Network, Inc.",https://www.edvisors.com/third-party-opt-out/,,False
+"Ekata, Inc.",https://www.mastercard.us/public/my-data/dgr-public/personal-data-request.html?locale=en-us&region=NAM#/ekata/request/personalinfo,,False
+"El Toro.Com, LLC",https://www.eltoro.com/do-not-sell-my-personal-information/,,False
+"Electronic Voice Services, Inc.",https://www.evs7.com/personal-information-request,,False
+Emerges.Com,https://www.emerges.com/Government-Record-Opt-Out_ep_51-1.html,,False
+Emerges.Com Incorporated,https://www.emerges.com/Government-Record-Opt-Out_ep_51-1.html,,False
+"Emerges.Com, Inc",https://www.emerges.com/Government-Record-Opt-Out_ep_51-1.html,,False
+"Employment Tax Servicing, LLC",https://www.experianverify.com/privacy/opt-out-targeted-advertising,,False
+Enformion,https://www.enformion.com/do-not-sell/,,False
+Enformion LLC,https://www.enformion.com/do-not-sell/,,False
+"Enformion, LLC",https://www.enformion.com/do-not-sell/,,False
+"Enformion, LLC",https://www.enformion.com/opt-out/,,False
+"Enigma Technologies, Inc.",https://enigma.com/company/do-not-share-or-sell-my-personal-information,,False
+"Enigma Technologies, Inc.",https://www.enigma.com/company/do-not-share-or-sell-my-personal-information,,False
+Eprodirect,https://www.eprodirect.com/do-not-sell-my-personal-information/,,False
+Eprodirect LLC,https://www.eprodirect.com/do-not-sell-my-personal-information/,,False
+"Epsilon Data Management, LLC",https://legal.epsilon.com/dsr/,,False
+Equifax Apprise Solutions LLC,https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+Equifax Data Services LLC,https://www.optoutprescreen.com/,,False
+Equifax Information Services LLC,https://www.optoutprescreen.com/,,False
+Equifax Workforce Solutions LLC,https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+Equimine,https://www.propstream.com/privacy-request,,False
+Exact Customer,https://www.exactcustomer.com/DoNotSell.aspx,,False
+Exact Data,https://www.data-axle.com/do-not-sell-my-data/,,False
+"Exact Opco, LLC",https://www.remodelyourhome.com/PrivacyRequest.aspx,,False
+Exelate Inc.,https://www.nielsen.com/legal/optout-page/,,False
+"Exelate, Inc.",https://www.nielsen.com/legal/optout-page/,,False
+Exlservice.Com,mailto:Privacy@exlservice.com,,False
+Exlservice.Com LLC,mailto:Privacy@exlservice.com,,False
+"Exlservice.Com, LLC.",https://privacy-central.securiti.ai/#/dsr-universal/4cf95bf6-78ca-4b1a-b55e-7ae4748468e8,,False
+"Experian Background Data, Inc.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+Experian Data Corp,https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Employer Services, Inc.",https://www.experianverify.com/privacy/opt-out-targeted-advertising,,False
+"Experian Fraud Prevention Solutions, Inc.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Health, Inc.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Information Solutions, Inc.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Marketing Solutions, Inc.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Marketing Solutions, LLC",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+"Experian Marketing Solutions, LLC.",https://www.experian.com/privacy/opt-out-targeted-advertising,,False
+Explorium Inc.,https://www.explorium.ai/do-not-sell-my-personal-information/,,False
+"Exponential Interactive, Inc.",https://www.vdx.tv/policies/privacy#opting-out,,False
+Eyeota Pte Ltd,https://www.eyeota.com/how-to-opt-out,,False
+FARADAY Inc,https://faraday.ai/privacy-options,,False
+"FD Holdings, LLC",https://www.factualdata.com/privacy/dsar-requests,,False
+FIRST ORION CORP,https://privacy.firstorion.com/,,False
+FOCUS USA,https://www.focus-usa.com/optout-form/,,False
+FOO MONK LLC,https://help.instantly.ai/en/collections/9392788-instantly-privacy-center,,False
+FOURLEAF LLC,https://www.fourleafdata.com/privacy-policy,,False
+FRAISER LLC,https://www.fraiser.org/data-request-form,,False
+Factori Technologies LLC,https://www.factori.ai/do-not-sell-my-information/,,False
+"Factual Data, Inc.",https://www.factualdata.com/privacy/dsar-requests,,False
+"Falcon.io US, Inc.",https://www.brandwatch.com/p/legal-data-subject-access-request/,,False
+"Family Tree Now, LLC",https://www.zendesk.com/company/agreements-and-terms/privacy-notice/,,False
+Famous Birthdays LLC,http://optout.networkadvertising.org/?c=1#!/,,False
+"Faraday, Inc.",https://www.faraday.io/privacy-options,,False
+"Faraday, Inc.",https://www.faraday.ai/privacy-options,,False
+"Fideo Intelligence, Inc.",https://app.fideo.ai/your-privacy-choices,,False
+"Fideo Intelligence, Inc.",https://app.fideo.ai/your-privacy-choices/,,False
+Fifty Technology Limited,https://www.fifty.io/opt-out,,False
+Fifty Technology Ltd,https://www.fifty.io/opt-out,,False
+Findem Inc,https://www.findem.ai/do-not-sell-or-share-my-personal-information,,False
+"Findem, Inc.",https://www.findem.ai/do-not-sell-or-share-my-personal-information,,False
+"Finthrive Healthcare, Inc.",https://privacyportal.onetrust.com/webform/e2abd578-6539-47f6-9895-b18d23b76ac4/c3d22390-d038-4464-83d3-3f0c91c76a01,,False
+First American Data Tree LLC,https://www.firstam.com/privacy-policy/#california,,False
+"First Direct, Inc.",https://compliance.firstdirectmarketing.com/,,False
+"First Movers Advantage, LLC",https://www.fmadata.com/opt-out-requests/new,,False
+First Orion,https://privacy.firstorion.com/,,False
+First Orion Corp,https://privacy.firstorion.com/,,False
+"First Orion, Inc.",https://privacy.firstorion.com/,,False
+Flashintel,https://www.flashintel.ai/dont-sell-my-information,,False
+Focus USA,https://www.focus-usa.com/optout-form/,,False
+"Focus USA, Inc",https://www.focus-usa.com/optout-form/,,False
+Foo Monk LLC,https://help.instantly.ai/en/collections/9392788-instantly-privacy-center,,False
+"Forewarn, LLC",https://www.forewarn.com/opt-out-policy/,,False
+Fourleaf LLC,https://www.fourleafdata.com/privacy-policy,,False
+"Foursquare Labs, Inc",https://optout.aboutads.info/?c=2&lang=EN,,False
+"Foursquare Labs, Inc.",https://optout.aboutads.info/?c=2&lang=EN,,False
+"Foursquare Labs, Inc.",https://foursquare.com/data-requests,,False
+"Fourthwall Media, Inc.",https://www.fourthwall.tv/donotsellorshare-fourthwall,,False
+Fraiser LLC,https://www.fraiser.org/data-request-form,,False
+"Fraiser, LLC",https://www.fraiser.org/data-request-form,,False
+Free Stream Media Corp.,https://www.samba.tv/users/notice-of-right-to-opt-out,,False
+"Freemium Data Services, LLC",https://www.reachdata.com/privacy,,False
+Freewheel Media Inc,https://www.freewheel.com/do-not-sell-my-information,,False
+"Freshaddress, LLC",https://instantdata.atdata.com/optout,,False
+"Frontline Esolutions, LLC",https://www.experianverify.com/privacy/opt-out-targeted-advertising,,False
+FullContact,https://platform.fullcontact.com/your-privacy-choices,,False
+"Fullcontact, Inc.",https://platform.fullcontact.com/your-privacy-choices,,False
+Fyllo,https://www.hellofyllo.com/legal/privacy-choices,,False
+"G2 Bankruptcy Risk Solutions, Inc.",https://g2risksolutions.com/consumer-center/,,False
+GA-UC HOLDINGS Inc,https://www.unacast.com/opt-out,,False
+GETEMAILS LLC,https://app.retention.com/optout/,,False
+GRASSROOTS ANALYTICS Inc,https://www.grassrootsanalytics.com/california-consumer-privacy-act-ccpa,,False
+GRIN Technologies Inc.,https://www.grin.co/data-privacy-form/,,False
+GUIDESTAR DIRECT CORP,mailto:privacy@carneydirect.com?Subject=Privacy%20Policy%20%E2%80%93%20Opt%20Out%20Request,,False
+Gale,https://info.cengage.com/LP=5633,,False
+Getemails LLC,https://app.retention.com/optout/,,False
+"Getemails, LLC",https://app.getemails.com/ccpa_details,,False
+Giant Partners,https://giantpartners.com/do-not-sell-my-personal-info-all-other-states/,,False
+"Giant Partners, Inc.",https://giantpartners.com/do-not-sell-my-personal-info-all-other-states/,,False
+"Good Boy Studios, Inc",https://www.parade.pet/,,False
+Grassroots Analytics,https://www.grassrootsanalytics.com/california-consumer-privacy-act-ccpa,,False
+Grata Inc,https://www.grata.com/legal/do-not-sell-my-information,,False
+"Gravy Analytics, Inc.",https://gravyanalytics.com/mobile-advertising-opt-form/?hsLang=en,,False
+"Gravy Analytics, Inc.",https://www.unacast.com/opt-out,,False
+Grayhair Software LLC,https://www.grayhairsoftware.com/privacy-policy/#Do-Not-Sell-My-Personal-Information,,False
+"Grayhair Software, LLC",https://www.grayhairsoftware.com/privacy-policy/#Do-Not-Sell-My-Personal-Information,,False
+Great Lakes List Management,https://www.greatlakeslists.com/opt_out_request.php,,False
+"Great Lakes List, Inc.",https://www.greatlakeslists.com/opt_out_request.php,,False
+Growbots Inc,https://www.growbots.com/do-not-sell-my-info/,,False
+Growbots Inc.,https://www.growbots.com/do-not-sell-my-info/,,False
+"Guidestar Direct, Corp.",mailto:privacy@carneydirect.com?Subject=Privacy%20Policy%20%E2%80%93%20Opt%20Out%20Request,,False
+Gunderson Direct,https://gundir.com/opt-out/,,False
+H1 Insights Inc.,https://www.h1.co/legal/privacy-preferences,,False
+HD INFORMATION LLC,https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+"HD Information, LLC",https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+HEARTBEAT.AI Inc,https://www.heartbeat.ai/optout,,False
+HERE North America LLC,https://legal.here.com/en-gb/privacy/do-not-sell,,False
+"Healthcare, Inc.",https://www.healthcare.com/data-request/request-form/,,False
+"Healthcare, Inc.",https://www.healthcare.com/data-request/request-form,,False
+"Healthcare, Inc.",https://www.healthcare.com/privacy-policy#right-to-opt-out,,False
+"Healthlink Dimensions, LLC",https://www.healthlinkdimensions.com/consumerprivacyrights?hsLang=en,,False
+Healthwise Data,https://www.healthwisedata.com/compliance-optout,,False
+Healthwise Data LLC,https://www.healthwisedata.com/compliance-optout,,False
+"Healthwise Data, LLC",https://www.healthwisedata.com/compliance-optout,,False
+Heartbeat.Ai Inc,https://heartbeat.ai/optout,,False
+Heartbeat.Ai Inc,https://www.heartbeat.ai/optout,,False
+Helix Campaigns LLC,https://helixcampaigns.com/mydata/,,False
+Hexasoft Development Sdn. Bhd.,https://www.ip2location.com/do-not-sell,,False
+"Hireteammate, Inc.",https://app.hireez.com/optout,,False
+"Hireteammate, Inc.",https://app.hireez.com/ownyourdata,,False
+"Hireteammate, Inc.",https://app.hiretual.com/optout,,False
+Hivestack Inc.,https://www.hivestack.com/opt-out-california-residents/,,False
+"Hivestack, Inc.",https://www.hivestack.com/opt-out-california-residents/,,False
+"Home Contractors Review, LLC",https://www.fivestarrated.com/do-not-sell,,False
+Homedata,https://privacy.deepsync.com/,,False
+Homeowners Marketing Services Inc,https://homeownersmarketingservices.com/list-removal-request-new/,,False
+"Homeowners Marketing Services, Inc",https://homeownersmarketingservices.com/list-removal-request-new/,,False
+Hunter Web Services Inc,https://hunter.io/claim?ref=donotsell,,False
+"Hunter Web Services, Inc.",https://www.hunter.io/claim?ref=donotsell,,False
+I360 LLC,https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/fd25e566-5931-4987-ae94-13ffd3306913,,False
+"I360, LLC",https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/fd25e566-5931-4987-ae94-13ffd3306913,,False
+ID Analytics LLC,https://consumer.risk.lexisnexis.com/request#california,,False
+"ID Analytics, LLC",https://consumer.risk.lexisnexis.com/request,,False
+ID5 Technology,https://www.id5.io/platform-privacy-policy/#what-are-your-choices,,False
+ID5 Technology Ltd,https://www.id5.io/platform-privacy-policy/#what-are-your-choices,,False
+"INSTANT Checkmate, LLC",https://www.instantcheckmate.com/do-not-sell-or-share-my-personal-information,,False
+INTELLIREAL LLC,https://www.optoutprescreen.com/,,False
+INTERACTIVE DATA LLC,https://ididata.com/idis-privacy-statement#privacy,,False
+"INTERACTIVE Data, LLC",https://www.ididata.com/idis-privacy-statement#privacy,,False
+IQVIA Digital Inc.,https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell,,False
+"IQVIA Digital, Inc.",https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell,,False
+IQVIA Inc,https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell,,False
+IQVIA Inc.,https://www.iqvia.com/about-us/privacy/ccpa/do-not-sell,,False
+IXI Corporation,https://www.optoutprescreen.com/,,False
+IXI Corporation,https://myprivacy.equifax.com/opt-in-opt-out/personal-info/,,False
+Idengine LLC,https://idengine.com/dnsmpi/,,False
+"Ileads.Com, LLC",https://ileads.com/submitrequest/,,False
+Illumin Inc.,https://privacy.acuityads.com/opt-out.html,,False
+Imprint Analytics LLC,https://imprintanalytics.io/limit-the-use-of-my-sensitive-personal-information/,,False
+Indiemark LLC,https://www.emailindustries.com/legal/#ccpa,,False
+Indiemark LLC,https://www.blackbox.email/privacy-policy?hsLang=en#ccpa,,False
+Infinite Knot Inc.,https://www.contacts411.com/opt-out,,False
+Infofree.com,https://privacycompliance.biz/databaseusa-opt-out-process/,,False
+Infogroup Inc.,https://www.data-axle.com/do-not-sell-my-data/,,False
+Infomatics LLC,https://www.privatereports.com/optOut/name/landing,,False
+"Information Data Resources, LLC",https://www.publicinfoservices.com/help-center/privacy-requests,,False
+Infutor Data Solutions,https://marketing.verisk.com/privacy-center/,,False
+Infutor Data Solutions LLC,https://marketing.verisk.com/privacy-center/,,False
+Infutor Data Solutions LLC,https://privacy.infutor.com/s/,,False
+"Inmar-Oiq, LLC",https://optout.owneriq.net/,,False
+"Inmar-Oiq, LLC",https://www.owneriq.com/privacy-notice.html#opt-out,,False
+Inmarket Media LLC,https://www.inmarket.com/opt-out/,,False
+"Inmarket Media, LLC",https://www.inmarket.com/opt-out/,,False
+"Innovative Database Solutions, Inc.",https://idatabasesolutions.com/do-not-sell-my-personal-info/,,False
+"Innovis Data Solutions, Inc.",https://www.innovis.com/personal/optOutOptIn,,False
+Instant Checkmate LLC,https://www.instantcheckmate.com/help/cancel-account/,,False
+"Instant Checkmate, LLC",https://www.instantcheckmate.com/,,False
+"Instant Checkmate, LLC",https://www.instantcheckmate.com/help/cancel-account/,,False
+Institutional Shareholder Services Inc.,https://www.issgovernance.com/privacy-legal/ccpa/,,False
+"Intelius, LLC",https://www.intelius.com/unsubscribe/,,False
+"Intelius, LLC",https://www.intelius.com/privacy-center,,False
+"Intellicorp Records, Inc.",https://www.intellicorp.net/marketing/Your-California-Privacy-Rights,,False
+Intellireal LLC,https://www.optoutprescreen.com/,,False
+Intent IQ LLC,https://www.intentiq.com/opt-out/,,False
+Intentgine Inc.,https://www.intentgine.com/ccpa-privacy,,False
+Intentmacro Inc.,https://www.intentmacro.com/ccpa-privacy,,False
+"Intentsify, LLC",https://app.intentsify.io/opt-out,,False
+"Interactive Data, LLC",https://www.ididata.com/do-not-sell-my-personal-information/,,False
+"Interactive Data, LLC",https://www.ididata.com/idis-privacy-statement#privacy,,False
+Irys,https://www.irys.us/do-not-sell-ccpa,,False
+"Irys, Inc",https://www.irys.us/do-not-sell-ccpa,,False
+Ispot.Tv,https://www.ispot.tv/privacy/opt-out,,False
+"Ispot.Tv, Inc.",https://www.ispot.tv/privacy/opt-out,,False
+Iwave,https://go.kindsight.io/privacy-opt-out,,False
+Iwave Information Systems,https://go.kindsight.io/privacy-opt-out,,False
+Iwave Information Systems Inc.,https://go.kindsight.io/privacy-opt-out,,False
+J.D. Power,https://www.jdpower.com/privacy/dsar,,False
+"J2 Global Canada, Inc.",https://dsar.ziffdavis.com/,,False
+"J2 Global Canada, Inc.",https://platform.fullcontact.com/your-privacy-choices,,False
+J2 Martech Corp.,https://dsar.ziffdavis.com/,,False
+"JDM LIST Services, LLC",https://www.jdmlistservices.com/do-not-sell-my-info,,False
+"JDM List Services, LLC",https://www.jdmlistservices.com/do-not-sell-my-info,,False
+JMR MEDIA CONSULTING Inc,https://www.jmr-media.com/do-not-sell-my-personal,,False
+"JMR Media Consulting, Inc.",https://www.jmr-media.com/do-not-sell-my-personal,,False
+"Jun Group Productions, LLC",https://jungroup.com/ccpa/,,False
+KLOUDEND Inc,https://ipapi.co/donotsell/,,False
+KOCHAVA Inc.,https://www.kochava.com/opt-out-do-not-sell-request-process/,,False
+Kargo Global LLC,https://www.kargo.com/privacy#opt-out,,False
+"Key Marketing Advantage, LLC",https://www.keymarketingadvantage.com/do_not_use_my_personal_information,,False
+"Kloudend, Inc.",https://www.ipapi.co/donotsell/,,False
+"Kloudend, Inc.",https://www.kloudend.com/donotsell/,,False
+Knowledge Works Inc.,https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+"Knowledge Works, Inc.",https://myprivacy.equifax.com/opt-in-opt-out/personal-info/,,False
+"Knowledge Works, Inc.",https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+Kochava Inc.,https://www.kochava.com/opt-out-do-not-sell-request-process/,,False
+Koddi Inc.,https://koddi.com/do-not-sell-my-personal-information/,,False
+Kols (Key Opinion Leaders),https://www.keyopinionleaders.com/,,False
+"Komodo Health, Inc.",https://komodohealth-privacy.my.onetrust.com/webform/5c3cf8b1-3cf1-422d-84d5-618844b7316f/580adaab-6481-479f-9643-50464eea9863,,False
+Kyber Health Data LLC,https://www.cowen.com/kyber-data-science-disclosures/do-not-sell-my-information-request-form/,,False
+L.S Mobile Apps Holdings Ltd,https://www.lsmapps.com/onetrust-opt-out,,False
+"L2, Inc.",https://l2political.com/california-privacy-rights-for-california-residents-only/,,False
+LEAD411 CORPORATION,https://lead411.com/your-privacy-choices/,,False
+LEADIQ Inc,https://www.leadiq.com/privacy-center,,False
+LEADSPACE Inc,https://www.leadspace.com/do-not-sell-form/,,False
+LIVERAMP HOLDINGS Inc,https://optout.liveramp.com/opt_out,,False
+LOOKIFY LLC,https://www.lookify.io/opt-out,,False
+"Lake Group Media, Inc.",https://www.data-axle.com/do-not-sell-my-data/,,False
+Lead Intelligence Inc,https://privacy.infutor.com/s/,,False
+"Lead Intelligence, Inc.",https://www.jornaya.com/privacy-center/,,False
+Lead Me Media,https://policy.leadmemedia.com/California/californiaform.html,,False
+"Lead Me Media, LLC",https://policy.leadmemedia.com/California/californiaform.html,,False
+Lead411 Corporation,https://www.lead411.com/your-privacy-choices/,,False
+Leadcrunch,https://getrev.ai/do-not-sell-or-share-my-personal-information/,,False
+Leadership Connect,https://www.leadershipconnect.io/opt-out,,False
+"Leadiq, Inc",https://privacy.leadiq.com/privacy-center,,False
+"Leadiq, Inc",https://www.leadiq.com/privacy-center#your-privacy-matters,,False
+"Leadiq, Inc.",https://www.leadiq.com/privacy-center,,False
+Leadsmarket.Com LLC,https://www.leadsmarket.com/privacy-policy.,,False
+Leadsmarket.Com LLC,https://www.leadsmarket.com/ccpa-notice,,False
+Leadspace Inc,https://www.leadspace.com/do-not-sell-form/,,False
+"Leadspace, Inc.",https://www.leadspace.com/do-not-sell-form/,,False
+"Leidos Digital Solutions, Inc.",https://leidosiq.com/privacy-statement/,,False
+"Leidos Digital Solutions, Inc.",https://www.leidos.com/privacy/california-privacy-notice#opt-out,,False
+Len Schenker,https://ecom2.anchorcomputer.com/privacyrequest,,False
+Lender Feed LC,https://my.monitorbase.com/privacypolicy,,False
+Lender Feed LLC,https://my.monitorbase.com/privacypolicy,,False
+LexisNexis,https://www.lexisnexis.com/global/privacy/en/privacy-center-us.page,,False
+LexisNexis Risk Solutions,https://consumer.risk.lexisnexis.com/request#california,,False
+LexisNexis Risk Solutions FL Inc.,https://consumer.risk.lexisnexis.com/request#california,,False
+Lexisnexis Risk Solutions FL Inc.,https://consumer.risk.lexisnexis.com/request#california,,False
+Lexisnexis Risk Solutions Inc,https://consumer.risk.lexisnexis.com/request#california,,False
+Lifesight LLC,https://lifesight.io/opt-out/,,False
+"Lightbox Parent, L.P.",https://www.lightboxre.com/,,False
+Lighthouse List,https://unsubscribe.stirista.com,,False
+Limeleads,https://www.limeleads.com/do-not-sell-my-data-request/,,False
+"Lionshare Marketing, Inc",https://www.lionsharemarketing.com/ccpa-opt-out/,,False
+List Service Direct Inc.,https://listservicedirect.com/opt-out/,,False
+Live Intent,https://privacy.liveintent.com/,,False
+LiveIntent,https://privacy.liveintent.com/,,False
+"LiveIntent, Inc.",https://privacy.liveintent.com/,,False
+"Liveintent, Inc.",https://privacy.liveintent.com/,,False
+"Liveramp Holdings, Inc.",https://www.liveramp.com/opt_out/,,False
+"Liveramp, Inc.",https://www.liveramp.com/opt_out/,,False
+Localblox,https://consumer.localblox.com/privacy_policy,,False
+Locatesmarter LLC,https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/,,False
+"Locatesmarter, LLC",https://www.locatesmarter.com/request-to-opt-out-do-not-sell-my-personal-information/,,False
+Lookify,https://www.lookify.io/opt-out,,False
+"Lookify, LLC",https://www.lookify.io/opt-out,,False
+"Lotadata, Inc.",https://lotadata.com/personal_information,,False
+"Lotame Solutions, Inc.",https://lotame-optout.com/,,False
+"Lotame Solutions, Inc.",https://www.lotame.com/privacy/privacy-manager/,,False
+"Lundquist Consulting, Inc.",https://g2risksolutions.com/consumer-center/,,False
+Lusha Systems Inc,https://dashboard.lusha.co/opt-out?ccpa=true,,False
+"Lusha Systems, Inc.",https://www.lusha.com/privacy-center/request-removal/,,False
+M & R Strategic Services Inc,https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform?usp=sf_link,,False
+M&R Strategic Services,https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform?usp=sf_link,,False
+"M1 Data & Analytics, LLC",https://m1-data.com/unsubscribe/,,False
+MAGNITE Inc,https://www.magnite.com/legal/user-choice-portal/,,False
+MATCHBOOK DATA LLC,https://www.matchbookdata.com/opt-out-form/,,False
+MAXMIND Inc,https://www.maxmind.com/en/opt-out,,False
+MCH Inc,https://www.mchdata.com/about/ccpaemail,,False
+MCH Inc.,https://www.mchdata.com/about/ccpaemail,,False
+MCH Strategic Data,https://www.mchdata.com/about/ccpaemail,,False
+MEDIAWALLAH Inc,https://mediawallah.com/donotsell/,,False
+MELISSA DATA CORPORATION,https://apps.melissa.com/user/consumerprivacy.aspx,,False
+"MH Sub I, LLC",https://www.internetbrands.com/privacy/privacy-contact-form.php,,False
+MILESTONE MARKETING SOLUTIONS,https://www.milestonemarketingsolutions.com/do-not-sell-my-information,,False
+MOBILEWALLA Inc,https://www.mobilewalla.com/global-opt-out-request,,False
+MOODYS ANALYTICS Inc,https://ma.moodys.com/Do-Not-Sell-My-Information.html,,False
+"MULTIMEDIA Lists, Inc.",https://privacyportal.privacypillar.com/dsar/form?orgid=3b24c635-e1a9-4e8c-8e61-9f5fa0024f9c&propid=d3da91fd-2750-4534-9436-f29b3e513fe5&formid=4106bc86-1ddf-461b-b7f6-a5f53b0977b3&status=publish,,False
+"Madhive, Inc.",https://www.madhive.com/legal/us-state-privacy-notice#optOut,,False
+Magnite Inc,https://www.magnite.com/legal/user-choice-portal/#optout,,False
+Malvern Media Inc.,https://privacyportal.privacypillar.com/dsar/form?formid=6e6ff4b8-2296-4589-ae7f-563fa743ec2d&orgid=369c8ff9-8ffb-4308-8362-f01691e77db8&propid=64c8904f-8bac-4dd9-8e6c-d052be1918a2&status=publish,,False
+Marinus Analytics,https://www.marinusanalytics.com/do-not-sell-my-personal-information,,False
+Market Force Corporation,https://www.marketforcecorp.com/opt-out/,,False
+"Marketing Partner Services, LLC",https://www.siteimpact.com/cali_compliance.php,,False
+Marketops,https://marketops.com/privacy-options/,,False
+Marketops LLC,https://www.marketops.com/privacy-options/,,False
+"Marriott International, Inc.",https://privacyportal.onetrust.com/webform/0894cd2c-85ba-4d0b-8ec1-e18f3735e0e0/b03c7f1f-4aca-4502-b5eb-d8d883be4c8c,,False
+Matchandappend.Com LLC,https://www.matchandappend.com/do-not-sell-my-data/,,False
+"Matchbook Data, LLC",https://www.matchbookdata.com/opt-out-form/,,False
+"Maxmind, Inc.",https://www.maxmind.com/en/opt-out,,False
+"Mch, Inc.",https://www.mchdata.com/about/ccpaemail,,False
+"Media Resource Group, Inc",https://www.mrginc.com/opt-out/,,False
+"Media Resource Group, Inc.",https://www.mrginc.com/opt-out/,,False
+Media Source Solutions,https://unsubscribe.stirista.com/,,False
+"Media.Net Advertising Fz, LLC",https://www.media.net/optout/,,False
+"Mediamath, Inc.",https://www.mediamath.com/privacy-policy/ccpa-optout/,,False
+"Mediasoft, LLC",https://www.mediasoftstudio.com/unsubscribe.php,,False
+Mediawallah Inc,https://mediawallah.com/donotsell/,,False
+"Mediawallah, LLC",https://mediawallah.com/donotsell/,,False
+Melissa Corporation,https://apps.melissa.com/user/consumerprivacy.aspx,,False
+Melissa Data Corporation,https://apps.melissa.com/user/consumerprivacy.aspx,,False
+Meltwater News US Inc,https://www.meltwater.com/en/legal,,False
+Meltwater News US Inc.,https://www.meltwater.com/en/legal,,False
+Meltwater News US Inc.,https://www.meltwater.com/en/privacy#opt-out,,False
+Merkle Inc,https://merkleinc.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html,,False
+Merkle Inc,https://www.merkleinc.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html,,False
+Merkle Inc.,https://www.merkleinc.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html,,False
+Merkle Inc.,https://www.merkle.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html,,False
+Message Digital LLC,https://www.messagedigital.com/my-data,,False
+Milestone Marketing Solutions,https://www.milestonemarketingsolutions.com/do-not-sell-my-information,,False
+Minerva BI Inc,https://realtors.minervadata.xyz/opt-out,,False
+Mississippi Tornado Alley LLC,https://www.zendesk.com/company/agreements-and-terms/privacy-notice/,,False
+Mobile Technology Corporation,mailto:optout@onspotdata.com?subject=Privacy%20Opt-Out%20Request,,False
+"Mobilewalla, Inc.",https://www.mobilewalla.com/global-opt-out-request,,False
+"Mobilewalla, Inc.",https://www.mobilewalla.com/california-residents-do-not-sell-my-personal-information,,False
+"Modernize, Inc.",https://privacy-central.securiti.ai/#/dsr/1b319101-f00c-470f-a7f0-26aa81f057b8,,False
+Modigie Inc.,https://privacyportal.onetrust.com/webform/4a8e10dc-2293-42ea-ad06-886bc22167a6/20341940-11c2-4c43-9b64-194e952203fd,,False
+"Mogean, Inc",https://www.mogean.com/opt-out,,False
+"Mogean, Inc.",https://www.mogean.com/opt-out,,False
+Monevo Inc,https://www.monevo.us/privacy-portal.,,False
+Moody's Corporation,https://ma.moodys.com/Do-Not-Sell-My-Information.html,,False
+NATIVO Inc,https://nativo.com/interest-based-ads#your-rights,,False
+NC VENTURES LLC,https://ncsolutions.com/do-not-sell-my-information/,,False
+"NC Ventures, LLC",https://ncsolutions.com/do-not-sell-my-information/,,False
+"NC Vnetures, LLC",https://ncsolutions.com/do-not-sell-my-information/,,False
+NEXXA GROUP Inc,https://www.nexxagroup.com/corporate-overview/consumer-opt-out/,,False
+NFOCUS CONSULTING Inc,https://www.n-focus.com/do-not-sell-or-share-my-personal-information/,,False
+"NOVA List Company, LLC",https://www.novalist.com/opt-out,,False
+"Narvar, Inc.",https://narvar.my.onetrust.com/webform/04b3731f-2a9a-42ce-bd6b-106d4b4ec3bf/a7c944bf-3cec-4f00-9dc5-dea5bf2b6f4f,,False
+"National Data Analytics, LLC",https://www.publicdatacheck.com/help-center/privacy-requests,,False
+"National Opinion Institute, LLC",https://privacyportal.onetrust.com/webform/77dff651-9f08-40cd-99fe-a7c487b2504d/afcce4ab-fd72-4990-a972-58e24d9110a7,,False
+"Nativo, Inc.",https://www.nativo.com/interest-based-ads#your-rights,,False
+Netwise,https://www.netwisedata.com/consumer-privacy,,False
+"Netwise Data, LLC",https://www.netwisedata.com/consumer-privacy,,False
+"Netwise Data, LLC",https://submit-irm.trustarc.eu/services/validation/ba81b98f-997d-4216-b4cc-d64cf261b082,,False
+New Gold Ventures LLC,https://www.thinkdatagroup.com/opt-out-option,,False
+"Next Wave Marketing Strategies, Inc",https://agedleadstore.com/opt-out-share-sale-info-form/,,False
+"Nextroll, Inc",https://app.adroll.com/optout,,False
+"Nextroll, Inc.",https://app.adroll.com/optout,,False
+Nexxa Group,https://www.nexxagroup.com/corporate-overview/consumer-opt-out/,,False
+"Nexxa Group, Inc.",https://www.nexxagroup.com/corporate-overview/consumer-opt-out/,,False
+Nexxen Inc,https://yourdata.nexxen.com/,,False
+Nexxen Inc.,https://yourdata.nexxen.com/,,False
+Nfocus Consulting Inc,https://www.n-focus.com/do-not-sell-or-share-my-personal-information/,,False
+"Nfocus Consulting, Inc.",https://www.n-focus.com/do-not-sell-or-share-my-personal-information/,,False
+Nielsen Marketing Cloud,https://www.nielsen.com/legal/optout-page/,,False
+"Nymblr, Inc.",https://www.nymblr.com,,False
+ONLINE MEDIA GROUP Inc.,https://www.omginc.xyz/privacy#ccpa,,False
+ORIGIN8 Inc,https://pushint.com/manage-my-data,,False
+OUTLOGIC LLC,https://outlogic.io/opt-out-form/,,False
+"On Hold-America, Inc.",https://www.kycdata.com/consumer-privacy/,,False
+Onaudience Ltd,https://onaudience.com/opt-out,,False
+Onaudience Ltd,https://www.onaudience.com/opt-out,,False
+Online Advertising Network Sp. z o.o.,https://oan.pl/opt-out/,,False
+"Openx Technologies, Inc.",https://www.openx.com/privacy-center/browser-opt-out-portal/,,False
+Optimal Fusion,https://www.optimalfusion.com/adpreferences/,,False
+Oracle America Inc,https://datacloudoptout.oracle.com/legal/privacy/privacy-choices/,,False
+"Oracle America, Inc.",https://datacloudoptout.oracle.com/optout.#maincontent,,False
+"Oracle America, Inc.",https://www.oracle.com/legal/privacy/privacy-choices/,,False
+"Orgio, Inc.",https://www.theorg.com/do-not-sell,,False
+Outbrain Inc.,https://my.outbrain.com/recommendations-settings/home,,False
+"Outlogic, LLC",https://outlogic.io/opt-out-form/,,False
+"Outward Media, Inc.",https://www.outwardmedia.com/do-not-sell,,False
+"Owmn, LTD.",https://www.thebridgecorp.com/opt-out/,,False
+"Ownco, LLC",https://my.monitorbase.com/privacypolicy,,False
+"Owneriq, Inc.",https://www.owneriq.com/privacy-notice.html#opt-out,,False
+PACIFIC EAST RESEARCH Inc,https://www.pacificeast.com/contact-us-privacy/,,False
+PIPL Inc,http://pipl.com/resources/privacy-documents/california-privacy-notice-individuals,,False
+"PMG Worldwide, LLC",https://www.pmg.com/do-not-sell-or-share-my-personal-information,,False
+POSTIE Inc,https://optout.postie.com/,,False
+PRECISELY SOFTWARE INCORPORATED,https://www.precisely.com/your-privacy-choices,,False
+PREDICTIVE POP Inc,https://www.audigent.com/?optout=1,,False
+PUBLICNSA LLC,https://optout.bigdbm.com/,,False
+PUBMATIC Inc,https://pubmatic.com/legal/opt-out/,,False
+Pacific East Research Inc,https://www.pacificeast.com/contact-us-privacy/,,False
+Pacificeast Research,https://www.pacificeast.com/contact-us-privacy/,,False
+Pacificeast Research Inc.,https://www.pacificeast.com/contact-us-privacy/,,False
+"Paedae, Inc.",https://privacyportal.onetrust.com/webform/f7e3f6db-ed65-4759-a3f5-3b5c8b7e9bff/draft/9949a1a8-aa69-4848-a93f-d093d877a981,,False
+"Paramount Lists, Inc.",https://www.paramountdirectmarketing.com/opt_out_request.php,,False
+Path2Response,https://privacyportal-cdn.onetrust.com/dsarwebform/2de26f06-de6f-45a7-8e1d-7d1148a3f301/draft/7a5dc7d1-cc7e-43a8-9f24-702807deb65b.html,,False
+Path2Response LLC,https://privacyportal-cdn.onetrust.com/dsarwebform/2de26f06-de6f-45a7-8e1d-7d1148a3f301/draft/7a5dc7d1-cc7e-43a8-9f24-702807deb65b.html,,False
+"Path2Response, LLC",https://privacyportal-cdn.onetrust.com/dsarwebform/2de26f06-de6f-45a7-8e1d-7d1148a3f301/draft/7a5dc7d1-cc7e-43a8-9f24-702807deb65b.html,,False
+"Pathway Ventures, LLC",https://www.protectdataprivacy.com/,,False
+Peekyou LLC,https://www.peekyou.com/about/contact/ccpa_optout/do_not_sell/,,False
+People Data Labs,https://www.peopledatalabs.com/do-not-sell-or-share,,False
+People Data Labs,https://www.peopledatalabs.com/privacy/opt-out-form,,False
+People Data Labs,https://privacy.peopledatalabs.com/policies?name=privacy-center#people-data-labs-privacy-center,,False
+"People Data Labs, Inc.",https://www.peopledatalabs.com/do-not-sell-or-share,,False
+"Peopleconnect, Inc.",https://suppression.peopleconnect.us/privacy-center,,False
+Peoplefinders LLC,https://www.peoplefinders.com/opt-out,,False
+"Peoplefinders, LLC",https://www.peoplefinders.com/opt-out,,False
+Peoplefindersdaas,https://www.peoplefindersdaas.com/personal-information,,False
+"Permutive, Inc",https://permutive.com/privacy/,,False
+"Pipl, Inc.",http://pipl.com/resources/privacy-documents/california-privacy-notice-individuals,,False
+"Place Exchange, Inc.",https://www.placeexchange.com/do-not-sell-my-information,,False
+"Placeiq, Inc.",https://www.precisely.com/legal/privacy-policy/your-privacy-choices,,False
+"Plexuss, Inc.",https://www.plexuss.com/ccpa-opt-out,,False
+"Plunge, LLC",https://share.hsforms.com/1erM4FtHJQY2p2JaWuo4YbQ2dsq6,,False
+"Pop Acta Media, LLC",https://optout.popacta.com/,,False
+Possiblenow Data Services,https://site.possiblenow.com/do-not-sell-my-personal-information-new,,False
+"Possiblenow Data Services, Inc.",https://site.possiblenow.com/do-not-sell-my-personal-information-new,,False
+"Possiblenow, Inc.",https://site.possiblenow.com/do-not-sell-my-personal-information-new,,False
+Postie,https://optout.postie.com/,,False
+"Postie, Inc",https://optout.postie.com/,,False
+"Postpilot, Inc.",https://www.postpilot.com/opt-out-of-mailings-form,,False
+Precisely Software,https://www.placeiq.com/your-privacy-choices,,False
+Precisely Software Incorporated,https://www.precisely.com/legal/privacy-policy/your-privacy-choices,,False
+"Predictive Pop, Inc.",https://www.audigent.com/?optout=1,,False
+Preferred Communications,https://preferredcommunications.com/consumer-opt-out/,,False
+Preferred Communications Data,https://preferredcommunications.com/consumer-opt-out/,,False
+PricewaterhouseCoopers LLP,https://www.pwc.com/us/en/site/notice-of-right-to-opt-out.html,,False
+Private Records LLC,https://www.privaterecords.net/optOut/name/landing,,False
+Private Records LLC,https://www.privaterecords.net/optOut/name/landing.,,False
+Privco Media LLC,https://www.privco.com/privacy-policy#opt-out,,False
+Project Applecart LLC,https://www.applecart.co/privacyrights,,False
+Propertyradar Inc,https://privacyportal.onetrust.com/webform/c3eb779a-028a-4045-aefc-ac78be730689/6f6c2bef-b565-4753-adc6-95585d7a9486,,False
+"Propertyradar, Inc.",https://privacyportal.onetrust.com/webform/c3eb779a-028a-4045-aefc-ac78be730689/6f6c2bef-b565-4753-adc6-95585d7a9486,,False
+"Prospector Database, LLC",https://www.prospectordatabase.com/privacy-center,,False
+Proxima Platform,https://www.proximaplatform.com/opt-out-portal,,False
+Publicnsa LLC,https://optout.bigdbm.com/,,False
+"Pubmatic, Inc.",https://pubmatic.com/legal/opt-out/,,False
+"Pulsepoint, Inc.",https://www.pulsepoint.com/legal/platform-privacy-policy#opt-out,,False
+Pwc Product Sales LLC,https://www.pwc.com/us/en/site/notice-of-right-to-opt-out.html,,False
+Quad/Graphics Inc.,https://www.quad.com/submit-a-privacy-request/,,False
+Quad/Graphics Inc.,https://www.quad.com/do-not-sell-my-info/,,False
+"Quad/Graphics, Inc",https://privacyportal.onetrust.com/webform/9bbdeb31-9ca4-4397-b421-b165438ad177/1ca01042-21a7-4307-8b42-a6c7439c9685#xd_co_f=NjJjZjJhZTUtN2I3Yy00NmNkLTlhYTAtYmM2OWQ1N2Y3MGFk~,,False
+"Quad/Graphics, Inc.",https://privacyportal.onetrust.com/webform/9bbdeb31-9ca4-4397-b421-b165438ad177/1ca01042-21a7-4307-8b42-a6c7439c9685#xd_co_f=NjJjZjJhZTUtN2I3Yy00NmNkLTlhYTAtYmM2OWQ1N2Y3MGFk~,,False
+Quadrant Global Pte. Ltd.,https://www.quadrant.io/opt-out,,False
+Qualfon,https://www.qualfon.com/privacy-policy/consumer-privacy-choices/,,False
+R. R. Donnelley & Sons Company,https://www.rrd.com/do-not-sell,,False
+REALEFLOW LLC,https://forms.gle/cgg2e2jLT7CL7efM7,,False
+RPM Data Solutions LLC,mailto:Privacy@exlservice.com,,False
+"Rampedup, LLC",https://basic.rampedup.io/app/donotsell,,False
+"Rampedup, LLC.",https://basic.rampedup.io/app/donotsell,,False
+"Randall-Reilly, LLC",https://privacyportal.onetrust.com/webform/49a9a972-547e-4c49-b23c-4cc77554cacb/3aab0bde-ec0c-4ce9-8e6f-cf12a9a950a5,,False
+"Rategain Adara, Inc.",https://adara.com/opt-out/,,False
+Ray CDP Inc,https://www.rayinsights.com/ray-cdp-opt-out-and-delete-request/,,False
+"Ray Cdp, Inc.",https://www.rayinsights.com/ray-cdp-opt-out-and-delete-request/,,False
+Real Intent Inc.,https://www.realintent.co/do-not-sell,,False
+Realeflow LLC,https://forms.gle/cgg2e2jLT7CL7efM7,,False
+"Reality Media, Inc.",https://www.realitydebtsolutions.com/do-not-sell-my-personal-information/,,False
+"Reallygreatrate, Inc.",https://privacyportal-eu-cdn.onetrust.com/dsarwebform/942fbf02-bbfe-4a5d-808d-080b06c5651c/3fdf8f1d-7ab3-4a99-bb4e-24965500290d.html,,False
+Realsource Inc.,https://www.realsourcedata.com/do-not-sell-my-personal-information,,False
+"Realsource, Inc",https://www.realsourcedata.com/do-not-sell-my-personal-information,,False
+"Recruitbot, Inc.",https://recruitbot.com/removal-request/,,False
+Recsolu Inc.,https://yello.co/do-not-sell-my-personal-information/,,False
+Redi-Data Inc.,https://www.redidata.com/join-our-mailing-list/,,False
+Redmob LLC,https://www.redmob.io/privacy-policy,,False
+"Regulatory Datacorp, Inc.",https://ma.moodys.com/Do-Not-Sell-My-Information.html,,False
+Reklaim Ltd.,https://www.reklaimyours.com/optout/,,False
+Reklaim Ltd.,https://www.reklaimyours.com/do-not-sell-my-data,,False
+Relationship Science,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+"Relpro, Inc.",https://www.relpro.com/opt-out,,False
+"Remodeling.Com, LLC",https://remodeling.com/do-not-sell/,,False
+ResearchUSA,https://privacycompliance.biz/researchusallc-ccpa/,,False
+Resonate,https://ds.reson8.com/opt-out.gif?lp=https://www.resonate.com/ccpa-do-not-sell/,,False
+Results Only Consulting And Advertising,https://www.rocadvertising.com/privacy-policy/#donotsell,,False
+Reveal Mobile,https://revealmobile.com/do-not-sell-my-personal-information/,,False
+Reveal Mobile,https://revealmobile.com/ccpa/,,False
+Reveal Mobile Inc,https://revealmobile.com/do-not-sell-my-personal-information/,,False
+"Reveal Mobile, Inc.",https://revealmobile.com/ccpa/,,False
+"Revelio Labs, Inc.",https://www.reveliolabs.com/do-not-sell-my-personal-information/,,False
+Revenuebase Inc,https://revenuebase.ai/do-not-sell-my-info/,,False
+Rhetorik Limited,https://rhetorik.com/do-not-sell-my-info/,,False
+Rich Media LLC,https://richmediallc.com/do-not-sell-my-personal-information/,,False
+"Rich Media, LLC",https://richmediallc.com/do-not-sell-my-personal-information/,,False
+Rocketreach LLC,https://rocketreach.co/remove-profile,,False
+Rocketreach LLC,https://rocketreach.co/ccpa_general#requests,,False
+"Rocketreach, LLC",https://rocketreach.co/claim-profile/,,False
+Rooftop Digital,https://www.consumerdataprotect.com/?ref=rooftopdigital.com,,False
+"Rooftop Digital, LLC",https://www.consumerdataprotect.com/?ref=rooftopdigital.com,,False
+Roq.Ad Inc,https://www.roq.ad/white-papers/#optout,,False
+Roq.Ad Inc.,https://www.roq.ad/white-papers/#optout,,False
+Rpmdirect LLC,mailto:Privacy@exlservice.com,,False
+Ruf Strategic Solutions,https://www.ruf.com/cookie-preferences/,,False
+Runtime Collective LLC,https://www.brandwatch.com/p/legal-data-subject-access-request/,,False
+S&P Global Inc.,https://www.spglobal.com/en/privacy/california-consumer-privacy-act,,False
+SALUTARY DATA LLC,https://www.salutarydata.com/privacy-opt-out-and-disclosure-form/,,False
+SEARCHBUG Inc,https://www.searchbug.com/ccpa.aspx#DoNoSell,,False
+SEMASIO Inc,https://www.semasio.com/legal/privacy-choices,,False
+SG360,https://sg360.com/do-not-sell-my-info/,,False
+SHEERID Inc,https://www.sheerid.com/privacy-notice-for-audience-development-products-services/?_cord_id=6ddcc513-32c1-4799-832f-5c1d99acad88,,False
+SMA COMMUNICATIONS LLC,https://smacomm.com/do-not-sell/,,False
+SPECIALISTS MARKETING SERVICES Inc,https://sms-inc.com/do-not-sell-or-share-my-personal-information/,,False
+SPEEDEON DATA LLC,https://optout.speedeondata.com/,,False
+STATARA SOLUTIONS LLC,https://statara.com/opt-out,,False
+STEPPINGBLOCKS Inc,https://www.steppingblocks.com/personal-information-inquiry,,False
+"Sabio, Inc.",https://www.sabio.inc/do-not-sell-my-info,,False
+"Sagestream, LLC",https://www.sagestreamllc.com/opt-out-opt-in/index.html,,False
+Salesintel Research Inc,https://salesintel.io/opt-out/,,False
+Salesintel Research Inc.,https://salesintel.io/opt-out/,,False
+Salutary Data LLC,https://www.salutarydata.com/privacy-opt-out-and-disclosure-form/,,False
+"Samba TV, Inc.",https://www.samba.tv/users/notice-of-right-to-opt-out,,False
+"Scalable Commerce, LLC",https://www.kidslivesafe.com/help-center/privacy-requests,,False
+"Scanbuy, Inc.",https://scanbuy.com/rights/data,,False
+Schmerms LLC,https://mobile.date-detective.app/investigate-opt-out?origin=website,,False
+Scileads,https://scileads.com/opt-out/,,False
+Scileads Ltd,https://scileads.com/opt-out/,,False
+"Seamless Contacts, Inc.",https://login.seamless.ai/personalDataRequest,,False
+Searchbug,https://www.searchbug.com/ccpa.aspx#DoNoSell,,False
+Semasio GmbH,https://www.semasio.com/legal/privacy-choices,,False
+"Semasio, Inc.",https://www.semasio.com/legal/privacy-choices,,False
+"Semcasting, Inc.",https://www.semcasting.com/privacy-choice,,False
+"Semcasting, Inc.",https://www.semcasting.com/privacy-choice?hsLang=en,,False
+Semcasting.com,https://www.semcasting.com/privacy-choice,,False
+Share Local Media,https://opt-out.sharelocalmedia.com/,,False
+"Share Local Media, Inc",https://opt-out.sharelocalmedia.com/,,False
+Sharethrough Inc.,https://privacy-center.sharethrough.com/en/do-not-sell-my-personal-information/,,False
+"Sheerid, Inc.",https://www.sheerid.com/privacy-notice-for-audience-development-products-services/?_cord_id=6ddcc513-32c1-4799-832f-5c1d99acad88,,False
+"Simio Cloud, LLC",https://simiocloud.com/optout,,False
+"Simio Cloud, LLC",https://simiocloud.com/optout/,,False
+Site Impact,https://www.siteimpact.com/cali_compliance.php,,False
+"Skipmasher, Inc.",https://www.skipsmasher.com/Consumers/,,False
+"Skipsmasher, Inc.",https://www.skipsmasher.com/Consumers/,,False
+"Skyhook Holding, Inc.",https://www.skyhook.com/opt-out-of-skyhook-products.,,False
+"Slashdot Media, LLC",https://www.slashdotmedia.com/opt-out-choices,,False
+"Slashdot Media, LLC",https://www.slashdotmedia.com/opt-out-choices/,,False
+Snovio Inc,https://www.snov.io/do-not-sell-my-personal-information,,False
+Social Catfish LLC,https://www.socialcatfish.com/opt-out/?id=request_optout,,False
+"Social Catfish, LLC",https://www.socialcatfish.com/opt-out/?id=request_optout,,False
+Sourcescrub LLC,https://www.sourcescrub.com/legal/do-not-sell-my-personal-information,,False
+"Sovrn, Inc.",https://privacy.sovrn.com/opt-out,,False
+"Specialists Marketing Services, Inc.",https://sms-inc.com/do-not-sell-or-share-my-personal-information/,,False
+Spectrum Mailing Lists,https://spectrummailinglists.com/privacy-statement/,,False
+Speedeon Data LLC,https://optout.speedeondata.com/,,False
+"Speedeon Data, LLC",https://optout.speedeondata.com/,,False
+Spokeo Inc,https://www.spokeo.com/optout,,False
+"Spokeo, Inc",https://www.spokeo.com/optout,,False
+"Spokeo, Inc.",https://www.spokeo.com/optout,,False
+Spy Dialer Labs Inc,https://www.spydialer.com/Consumers/,,False
+"Spy Dialer, Inc.",https://www.spydialer.com/Consumers/,,False
+"Spycloud, Inc.",https://www.spycloud.com/contact-us/,,False
+Stackadapt Inc.,https://www.stackadapt.com/legal-document-centre/opt-out-of-sale-targeted-advertising,,False
+Start.Io Inc.,https://www.start.io/do-not-sell-or-sharemy-personal-information/,,False
+Statara Solutions LLC,https://statara.com/opt-out,,False
+Statsocial,https://www.statsocial.com/optout,,False
+"Statsocial, Inc",https://www.statsocial.com/optout,,False
+"Statsocial, Inc.",https://www.statsocial.com/optout,,False
+Stefan Certic,https://www.flashintel.ai/dont-sell-my-information,,False
+"Steppingblocks, Inc.",https://www.steppingblocks.com/personal-information-inquiry,,False
+Sterling Data Company LLC,https://sterling.ai/do-not-sell/,,False
+Stirista LLC,https://unsubscribe.stirista.com/,,False
+"Stirista, LLC",https://unsubscribe.stirista.com/,,False
+Strata Company,https://www.gostrata.com/opt-out-preferences,,False
+Structure,https://www.structure.ac/opt_outs/new,,False
+Structure,https://structure.ac/opt_outs/new,,False
+Stuart Mcnair,https://privacyportal.onetrust.com/webform/49a9a972-547e-4c49-b23c-4cc77554cacb/3aab0bde-ec0c-4ce9-8e6f-cf12a9a950a5,,False
+Subdirect LLC,https://360-media-direct.privacy.saymine.io/360_Media_Direct,,False
+"Summit Resources, LLC",https://privacyportal-cdn.onetrust.com/dsarwebform/555c3377-7eb2-4e7a-bf30-c408de4ab483/70df6685-8289-4d72-a9d7-9a736b3b837f.html,,False
+"Swarm Holdings, Inc.",https://www.theswarm.com/company/do-not-sell,,False
+"Swoop.Com, Inc.",https://optout.swoop.com/,,False
+Swordfish AI Inc,https://swordfish.ai/optout,,False
+Swordfish AI Inc.,https://swordfish.ai/optout,,False
+T-MOBILE USA Inc,https://www.t-mobile.com/dns?INTNAV=fNav%3ADoNotSell&Brand=Magenta&Site=Sell_Web&Origin_URL=https%3A%2F%2Fwww.t-mobile.com,,False
+"T-Mobile USA, Inc.",https://www.t-mobile.com/dns?INTNAV=fNav%3ADoNotSell&Brand=Magenta&Site=Sell_Web&Origin_URL=https%3A%2F%2Fwww.t-mobile.com,,False
+TALX CORPORATION,https://myprivacy.equifax.com/opt-in-opt-out/personal-info,,False
+TARGETSMART COMMUNICATIONS LLC,https://privacy.targetsmart.com/do-not-sell-my-personal-information,,False
+TECHTARGET Inc,https://techtarget.zendesk.com/hc/en-us/requests/new?ticket_form_id=360004852434,,False
+THE ALESCO GROUP LLC,https://alescodata.com/opt-out-request/,,False
+THE DEAL LLC,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+TL1MKT SL SL,https://www.tl1mkt.com/opt-out.html,,False
+TRANS UNION LLC,https://www.optoutprescreen.com/,,False
+TRESTLE SOLUTIONS Inc,https://www.trestleiq.com/do-not-sell-my-personal-information/,,False
+"TSG Holdco, Inc.",https://finthrive.com/privacy-notice-for-california-residents,,False
+"Tagis, Inc.",https://www.amplemarket.com/legal/do-not-sell-my-info,,False
+"Tandem Marketing, LLC",https://www.fhamortgagefinder.com/CCPArequest.php,,False
+"Tapad, Inc",https://crportal.tapad.com,,False
+"Tapad, Inc.",https://crportal.tapad.com,,False
+Targetsmart Communications LLC,https://privacy.targetsmart.com/general/opt_out,,False
+Targetsmart Communications LLC,https://privacy.targetsmart.com/do-not-sell-my-personal-information,,False
+"Tax Credit Co., LLC",https://www.experianverify.com/privacy/opt-out-targeted-advertising,,False
+"Techtarget, Inc.",https://techtarget.zendesk.com/hc/en-us/requests/new?ticket_form_id=360004852434,,False
+Telesign Corporation,https://www.telesign.com/privacy-requests,,False
+"Terminus Software, Inc.",https://home.terminusplatform.com/data-deletion-request,,False
+The Alesco Group LLC,https://www.alescodata.com/opt-out-request/,,False
+"The Alesco Group, LLC",https://www.alescodata.com/opt-out-request/,,False
+The Bridge Corp,https://www.thebridgecorp.com/opt-out/,,False
+The Nielsen Company,https://www.nielsen.com/legal/optout-page/,,False
+"The Open Data People, Inc.",https://www.openpeoplesearch.com/Consumer,,False
+The People Searchers LLC,https://www.peoplesearcher.com/optOut/name/landing,,False
+Throtle,https://www.throtle.io/website-privacy-policy/#cookie-id,,False
+"Throtle, Inc",https://www.throtle.io/website-privacy-policy/#cookie-id,,False
+"Throtle, Inc.",https://www.throtle.io/website-privacy-policy/#cookie-id,,False
+"Tinuiti, Inc.",https://tinuiti.com/privacy-policy/,,False
+Tiplinks Inc,https://app.fetcher.ai/opt-out,,False
+"Towerdata, Inc.",https://instantdata.atdata.com/optout,,False
+"Towerdata, LLC",https://instantdata.atdata.com/optout,,False
+"Traackr, Inc.",https://www.traackr.com/data-opt-out,,False
+TransUnion,https://www.optoutprescreen.com/,,False
+Trestle Solutions Inc.,https://trestleiq.com/do-not-sell-my-personal-information/,,False
+"Trestle Solutions, Inc.",https://trestleiq.com/do-not-sell-my-personal-information/,,False
+True Blue Analytics,https://www.trueblueanalytics.org/dontsellmydata,,False
+True Blue Analytics LLC,https://www.trueblueanalytics.org/dontsellmydata,,False
+"Truedata Solutions, Inc.",https://info-prod.truedata.co/opt-out-request,,False
+Truth Now LLC,https://www.checksecrets.com/optOut/name/landing.,,False
+Truthfinder LLC,https://www.truthfinder.com/privacy-center/,,False
+"Truthfinder, LLC",https://www.truthfinder.com/privacy-center/,,False
+"Tunnl, LLC",https://privacy.tunnldata.com/,,False
+"Tunnl, LLC",https://www.tunnldata.com/privacy-policy#Universal-Opt-Out-Mechanisms,,False
+Tymax Media,https://www.tymaxmedia.com/ccpa.php,,False
+UPS Capital Corporation,https://www.upscapital.com/opt-out/,,False
+US DATA CORPORATION,https://www.usdatacorporation.com/opt-out,,False
+US Data Corporation,https://www.usdatacorporation.com/do-not-sell-my-info/,,False
+US Data Corporation,https://www.usdatacorporation.com/opt-out,,False
+US Marketing Group,https://www.usmarketinggrp.com/privacy-policy/#CCPA,,False
+"Unacast, Inc.",https://www.unacast.com/opt-out,,False
+"Unearth Campaigns, LLC",https://www.unearthcampaigns.com/opt-out/,,False
+Unity Technologies SF,https://www.unity.com/legal/do-not-sell-my-personal-information,,False
+Uplead,https://www.uplead.com/opt-out/,,False
+Uplead LLC,https://www.uplead.com/opt-out/,,False
+"Usadata, Inc.",https://www.usadata.com/donotsellmyinformation,,False
+V12,https://www.v12data.com/inbound/do-not-sell-my-personal-information/,,False
+V12 Privacy,https://www.v12data.com/inbound/do-not-sell-my-personal-information/,,False
+VALASSIS COMMUNICATIONS Inc,https://www.vericast.com/do-not-sell-or-share-my-information/,,False
+VEEVA SYSTEMS Inc,https://www.veeva.com/privacy/do-not-sell-share/,,False
+VENPATH Inc,https://www.venpath.net/legal/opt-out,,False
+VENTIVEIQ LLC,https://privacyportal.privacypillar.com/dsar/form?orgid=0c31c814-ea86-461f-8ccb-294f05bc74c3&propid=cc95835d-7719-4336-b0c4-18146e5d000a&formid=4348f332-6917-4566-8c56-6fc9eb57097f&status=publish,,False
+VERSIUM ANALYTICS Inc,https://versium.com/ccpa-opt-out,,False
+VRTCAL Markets Inc,https://www.vrtcal.com/opt-out/,,False
+"VRTCAL Markets, Inc.",https://www.vrtcal.com/opt-out/,,False
+"Valassis Communications, Inc.",https://www.rrd.com/do-not-sell,,False
+"Valassis Communications, Inc.",https://www.valassis.com/do-not-sell,,False
+"Valassis Direct Mail, Inc",https://www.valassis.com/do-not-sell,,False
+"Valassis Direct Mail, Inc.",https://www.vericast.com/do-not-sell-or-share-my-information/,,False
+Veeva Systems Inc.,https://www.veeva.com/privacy/do-not-sell-share/,,False
+Venntel,https://www.venntel.com/opt-out?hsLang=en,,False
+"Venntel, Inc.",https://www.venntel.com/opt-out?hsLang=en,,False
+"Venntel, Inc.",https://www.venntel.com/opt-out,,False
+"Venpath, Inc",https://www.venpath.net/legal/opt-out,,False
+"Venpath, Inc.",https://www.venpath.net/legal/opt-out,,False
+Ventiveiq LLC,https://privacyportal.privacypillar.com/dsar/form?orgid=0c31c814-ea86-461f-8ccb-294f05bc74c3&propid=cc95835d-7719-4336-b0c4-18146e5d000a&formid=4348f332-6917-4566-8c56-6fc9eb57097f&status=publish,,False
+Veraset,https://www.veraset.com/do-not-sell-my-personal-information,,False
+Veraset LLC,https://www.veraset.com/do-not-sell-my-personal-information,,False
+Versium,https://versium.com/ccpa-opt-out,,False
+Versium Analytics Inc.,https://versium.com/ccpa-opt-out,,False
+Viant Technology LLC,https://www.viantinc.com/privacy-policy/#opt-out,,False
+Viant Technology LLC,https://www.viantinc.com/privacy-center/,,False
+Viant US LLC,https://www.viantinc.com/privacy-center/,,False
+"Videoamp, Inc.",https://videoamp.com/opt-out/,,False
+"Videoamp, Inc.",https://www.videoamp.com/consumer-rights-under-ccpa,,False
+Virtual Marketing LLC,http://optout.aboutads.info,,False
+Virtual Marketing LLC,https://www.fusion92.com/privacy-choices,,False
+Visitiq.Io,https://visitiq.io/opt-out-form/,,False
+"Vistar Media, Inc.",https://www.vistarmedia.com/privacy-choices,,False
+Visual Visitor L.L.C.,https://www.visualvisitor.com/opt-out/,,False
+Visual Visitor LLC,https://www.visualvisitor.com/opt-out/,,False
+WARMLY Inc,https://warmly.ai/p/do-not-sell-share-my-data,,False
+WEALTH-X LLC,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+WEALTHENGINE Inc,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+WEBBULA LLC,https://webbula.com/opt-out-request/,,False
+WILAND Inc,https://privacyportal.onetrust.com/webform/7567ece3-2d27-4ee0-a506-1153cb7a62b7/a5485eb1-f1ee-4a9f-9ed4-2b8ee48b550f,,False
+WINDFALL DATA Inc,https://www.windfall.com/do-not-sell-my-info,,False
+WINR Data B.V.,https://privacyportal-au.onetrust.com/webform/ad3cafad-4bf2-4d22-951f-57cc1fd05690/5fa8f2da-0508-42a6-bbc7-9b031898d10c,,False
+Warmly Inc,https://warmly.ai/p/consumer-rights-request,,False
+"Warmly, Inc",https://www.warmly.ai/p/do-not-sell-share-my-data,,False
+"Warmly, Inc.",https://warmly.ai/p/do-not-sell-share-my-data,,False
+We Inform LLC,https://www.weinform.org/optOut/name/landing,,False
+Wealth-X,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+Wealthengine,https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+"Wealthengine, Inc.",https://privacyportal-de.onetrust.com/webform/b5218791-ed84-4221-9950-4da103101c75/1a48b9f9-3aa6-4bab-bdad-9ec06710a91c,,False
+"Webbula, LLC",https://webbula.com/opt-out-request/,,False
+West Publishing Corporation,https://www.thomsonreuters.com/ccpa-dsar,,False
+"Whitepages, Inc",https://www.whitepages.com/privacy/consumer-rights,,False
+"Whitepages, Inc.",https://www.whitepages.com/privacy/consumer-rights,,False
+Wiland Inc,https://wiland.com/privacy-choices/,,False
+"Wiland, Inc.",https://wiland.com/privacy-choices/,,False
+"Wiland, Inc.",https://www.wiland.com/privacy-choices#how-to-submit-privacy-choices,,False
+"Windfall Data, Inc.",https://www.windfall.com/do-not-sell-my-info,,False
+"Windfall Data, Inc.",https://windfalldata.com/database-opt-out/,,False
+"Windfall Data, Inc.",https://survey.alchemer.com/s3/6295248/Database-Opt-Out,,False
+Wisdom Media Group LLC,https://www.wisdommediagroupllc.com/unsubscribe.php,,False
+"Wiza, Inc.",https://www.wiza.co/optout_directory,,False
+Wunderkind Corporation,https://www.wunderkind.co/privacy/opt-out-of-data-processing/,,False
+"X-Mode Social, Inc.",https://outlogic.io/opt-out-form/,,False
+"Xad, Inc.",https://www.groundtruth.com/privacy-rights/,,False
+Xcelerated Data LLC,mailto:privacy@xcelerated.com?subject=Opt-out%20Request,,False
+"Yobi Ventures, LLC",https://www.yobi.ventures/opt-out,,False
+"Youvisit, LLC",https://privacyportal.onetrust.com/webform/2d4f8bee-b269-434d-a07f-3b94c6618cb4/draft/5cf0e525-940a-42ef-9f33-e89cd2aea637,,False
+ZIPSTORM Inc,https://www.seekout.com/privacy/choices,,False
+ZOOMINFO TECHNOLOGIES LLC,https://www.zoominfo.com/trust-center/your-privacy,,False
+"ZS Associates, Inc.",https://www.zs.com/data-request,,False
+Zenleads Inc.,https://www.apollo.io/privacy-policy/remove,,False
+Zeotap GmbH,https://privacyportal-de.onetrust.com/webform/bdcc4a2f-2458-4e17-96c3-cf88f7115dfc/2c5e70e5-643a-4c1e-b9c2-1e71584d04ad,,False
+Zeta Global,https://zetaglobal.com/privacy-choices/,,False
+Zeta Global Corp.,https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/d0720d0f-d427-4a7d-a773-5d6793229f15.html,,False
+Zeta Global Corp.,https://zetaglobal.com/privacy-choices/,,False
+Zipstorm LLC,https://www.seekout.com/privacy/choices,,False
+"Zipstorm, Inc.",https://www.seekout.com/privacy/choices,,False
+ZoomInfo,https://www.zoominfo.com/trust-center/your-privacy,,False
+Zoominfo Technologies LLC,https://www.zoominfo.com/trust-center/your-privacy,,False
+"Zoominfo Technologies, LLC",https://www.zoominfo.com/trust-center/your-privacy,,False
