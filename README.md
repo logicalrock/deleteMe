@@ -141,7 +141,14 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-# 3. Install dependencies
+# 3. Environment Variables
+
+Copy `.env.example` and rename to `.env`:
+
+```bash
+cp .env.example .env
+
+# 4. Install dependencies
 
 ```bash
 pip install -r requirements.txt
